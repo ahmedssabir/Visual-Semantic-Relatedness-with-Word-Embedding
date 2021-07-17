@@ -1,5 +1,7 @@
 #  Semantic Relatedness with Word Embedding (SWE)
 
+Implementation of the paper [Visual Re-ranking with Natural Language
+Understanding for Text Spotting](https://arxiv.org/pdf/1810.12738.pdf). sabir et al. ACCV 2018.
 
 ![image](figure.jpg)
 
@@ -11,7 +13,8 @@
    * [Contextual-based embedding BERT visual re-ranker](https://github.com/sabirdvd/visual-re-ranker-with-w2v/tree/main/BERT-based)
 <!--te-->
 
-
+## Introduction 
+Many scene text recognition approaches are based on purely visual information and ignore the semantic relation between scene andtext. In this paper, we tackle this problem from natural language processing perspective to fill the gap between language and vision. We propose apost-processing approach to improve scene text recognition accuracy byusing occurrence probabilities of words (unigram language model), and the  semantic  correlation  between  scene  and  text.  For  this,  we  initiallyrely on an off-the-shelf deep neural network, already trained with large amount  of  data,  which  provides  a  series  of  text  hypotheses  per  inputimage. These hypotheses are then re-ranked using word frequencies and semantic  relatedness  with  objects  or  scenes  in  the  image.  As  a  result of this combination, the performance of the original network is boostedwith almost no additional cost. We validate our approach on ICDAR’17dataset
 
  
 ## Count-based word embedding visual re-ranker 
