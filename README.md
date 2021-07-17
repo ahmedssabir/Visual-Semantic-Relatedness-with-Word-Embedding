@@ -49,7 +49,7 @@ To be able to use w2v/Glove as visual re-ranker, we need the following informati
 
 - The spotted text `text_spotted.txt`: word candidates from the baseline  
 - The original hypothesis score from the baseline ``baseline.txt`` softmax output 
-- The hypothesis `LM.txt`: initialized by common observation (ie [LM](https://github.com/sabirdvd/visual-re-ranker-with-w2v/tree/main/ULM))
+- The hypothesis `LM.txt`: initialized by common observation (ie [LM](https://github.com/ahmedssabir/Visual-Semantic-Relatedness-with-Word-Embedding/tree/main/ULM))
 - Visual information from the image `visual-context_label.txt`: initialized visual context or classifer confident 
 - Visual information  confidence `visual-context_prob.txt` from the classifier -ie RseNet152
 
