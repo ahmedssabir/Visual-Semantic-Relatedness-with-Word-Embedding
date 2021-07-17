@@ -1,6 +1,6 @@
 #  Semantic Relatedness with Word Embedding (SWE)
 
-Implementation of the paper [Visual Re-ranking with Natural Language
+Improved implementation of the paper [Visual Re-ranking with Natural Language
 Understanding for Text Spotting](https://arxiv.org/pdf/1810.12738.pdf). Sabir et al. ACCV 2018.
 
 ![image](figure.jpg)
