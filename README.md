@@ -13,7 +13,7 @@ Many scene text recognition approaches are based on purely visual information an
  
  <!--ts-->
    * Count-based word embedding visual re-ranker  
-   * [Knowleage-based word embedding  visual re-ranker](https://github.com/sabirdvd/visual-re-ranker-with-w2v/tree/main/knowledge-base-embedding)
+   * [Knowleage-based word embedding  visual re-ranker](https://github.com/ahmedssabir/Visual-Semantic-Relatedness-with-Word-Embedding/tree/main/knowledge-base-embedding)
    * [Contextual-based embedding BERT visual re-ranker](https://github.com/sabirdvd/visual-re-ranker-with-w2v/tree/main/BERT-based)
 <!--te-->
 
