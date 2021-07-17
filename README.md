@@ -3,25 +3,6 @@
 
 ![image](figure.jpg)
 
-
-
-The visual re-ranker is based on probability from similarity aka [Belief Revision Theorem](https://www.aaai.org/Papers/Symposia/Spring/2003/SS-03-05/SS03-05-005.pdf). The Belief Revision Theorem is a conditional probability model which assumes that the preliminary probability finding is revised to the extent warranted by the hypothesis proof.  
-
-<img src="https://render.githubusercontent.com/render/math?math=\text{P}(w \mid c)=\text{P}(w)^{\alpha}"> 
-
-
-where the main components of hypothesis revision:
-
-1. Original Hypothesis  <img src="https://render.githubusercontent.com/render/math?math=\text{P}(w)">  baseline model softmax score  (gray block)
-
-2. Initialized Hypothesis by common observation  <img src="https://render.githubusercontent.com/render/math?math=\text{P}(\text{ULM})"> (ie language model) (blue block)
-  
-3. Informativeness  <img src="https://render.githubusercontent.com/render/math?math=1-\text{P}(c)"> of the visual context. (green block)
- 
-4. Similarities <img src="https://render.githubusercontent.com/render/math?math=\alpha=\left[\frac{1 - \text{sim}(w, c)}{1%2B\text{sim}(w, c)}\right]^{1-\text{P}(c)}"> the relatedness between the two concepts (visual context and hypothesis) with respect to the informativeness of the visual information. (red block)
-
-Here is a [Demo](visual_re-re-ranker_demo.ipynb) to show the word embedding based Visual Re-ranking with Belief Revision theorem 
- 
  ## Model 
  
  <!--ts-->
