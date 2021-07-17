@@ -1,0 +1,13 @@
+3.43E-08	
+9.99E-06	
+0.00023182
+
+quartos	
+quotas	
+quarters
+
+
+
+w1 = runMap('quartos') % get word
+w2 = runMap('quotas') % get word
+w3 = runMap('quarters') % get word   %

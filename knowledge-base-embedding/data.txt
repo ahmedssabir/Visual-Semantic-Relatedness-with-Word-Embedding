@@ -1,0 +1,1791 @@
+COCO_train2014_000000000036.jpg,umbrella,umbrella_bn:00078920n
+COCO_train2014_000000000064.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000000394.jpg,toy, toy_bn:00077799n
+COCO_train2014_000000000542.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000000643.jpg,desktop,desktop_bn:00026560n
+COCO_train2014_000000001204.jpg,football, football_bn:00006547n
+COCO_train2014_000000001264.jpg,stethoscope, stethoscope_bn:00074236n
+COCO_train2014_000000001308.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000001315.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000001431.jpg,stage, stage_bn:00061898n, stage_bn:00091979v
+COCO_train2014_000000001505.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000001681.jpg,wall,wall_bn:00080386n
+COCO_train2014_000000001815.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000001875.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000001911.jpg,dogsled, dogsled_bn:00028064n
+COCO_train2014_000000002007.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000002374.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000002377.jpg,airship, airship_bn:00002310n,airship_bn:01276218n
+COCO_train2014_000000002466.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000002567.jpg,kimono,kimono_bn:00049123n
+COCO_train2014_000000002623.jpg,boathouse, boathouse_bn:00011689n
+COCO_train2014_000000002658.jpg,basketball, basketball_bn:00008889n
+COCO_train2014_000000002755.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000002892.jpg,pomegranate, pomegranate_bn:00063486n
+COCO_train2014_000000002964.jpg,toaster, toaster_bn:00077437n, toaster_bn:00077436n 
+COCO_train2014_000000003157.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000003602.jpg,street, street_bn:00074595n
+COCO_train2014_000000003967.jpg,swing, swing_bn:00048231n 
+COCO_train2014_000000004138.jpg,swab, swab
+COCO_train2014_000000004527.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000004716.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000004719.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000004741.jpg,thatch, thatch_bn:00076774n
+COCO_train2014_000000005088.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000005113.jpg,mouse, mouse_bn:00021487n 
+COCO_train2014_000000005294.jpg,minivan, minivan_bn:00055185n
+COCO_train2014_000000005424.jpg,wooden, wooden_bn:00113924a,wooden_bn:00113923a,wooden_bn:00081492n
+COCO_train2014_000000005641.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000005755.jpg,shopping, shopping_bn:00071230n
+COCO_train2014_000000005883.jpg,cinema, cinema_bn:00019129n
+COCO_train2014_000000006225.jpg,marimba, marimba_bn:00053421n
+COCO_train2014_000000006332.jpg,thatch, thatch_bn:00076774n
+COCO_train2014_000000006428.jpg,monitor, monitor_bn:00090897v, monitor_bn:01384872n,monitor_bn:00021486n
+COCO_train2014_000000006578.jpg,hand, hand_bn:00088825v,hand_bn:03333162n,hand_bn:00042759n
+COCO_train2014_000000006990.jpg,viaduct, viaduct_bn:00079896n
+COCO_train2014_000000007228.jpg,crutch, crutch_bn:00024154n
+COCO_train2014_000000007823.jpg,street, street_bn:00074595n
+COCO_train2014_000000008339.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000008379.jpg,pole, pole_bn:00063294n, pole_bn:00061508n,pole_bn:00017016n, pole_bn:03695665n
+COCO_train2014_000000008830.jpg,apiary, apiary_bn:00004899n
+COCO_train2014_000000008848.jpg,quilt, quilt_bn:00020917n
+COCO_train2014_000000009138.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000009398.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000009509.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000009797.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000010084.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000010230.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000010265.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000010319.jpg,lawn,lawn_bn:00050284n, lawn_bn:03450615n
+COCO_train2014_000000010342.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000010434.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000010716.jpg,viaduct, viaduct_bn:00079896n
+COCO_train2014_000000010727.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000010890.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000010907.jpg,computer,computer_bn:00021464n
+COCO_train2014_000000011205.jpg,vacuum,vacuum_bn:00030635n, vacuum_bn:00089464v  
+COCO_train2014_000000011292.jpg,military,military_bn:00106724a,military_bn:00106726a, military_bn:00005732n
+COCO_train2014_000000011519.jpg,horse, horse_bn:00031345n
+COCO_train2014_000000011569.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000011613.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000011631.jpg,mountain, mountain_bn:00056068n
+COCO_train2014_000000012044.jpg,crayfish, crayfish_bn:00023608n
+COCO_train2014_000000012109.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000012183.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000012233.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000012418.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000012822.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000012839.jpg,punching, punching_bn:00010281n,punching_bn:00010281n,punching_bn:00091549v
+COCO_train2014_000000013176.jpg,dishwasher, dishwasher_bn:00027579n,dishwasher_bn:00027591n
+COCO_train2014_000000013336.jpg,toilet, toilet_bn:00015106n
+COCO_train2014_000000013528.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000013547.jpg,wardrobe, wardrobe_bn:00019955n, wardrobe_bn:03576222n, wardrobe_bn:00080479n, wardrobe_bn:00080480n 
+COCO_train2014_000000013636.jpg,giant, giant_bn:00102113a, giant_bn:00040389n, giant_bn:00040390n 
+COCO_train2014_000000013715.jpg,tricycle, tricycle_bn:00078268n
+COCO_train2014_000000013912.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000013934.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000013944.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000013983.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000014319.jpg,rule, rule_bn:00064192n, rule_bn:00068525n, rule_bn:00086420v, rule_bn:00088992v 
+COCO_train2014_000000014484.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000014537.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000014546.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000015289.jpg,street, street_bn:00074595n
+COCO_train2014_000000015297.jpg,space, space_bn:00046665n, space_bn:00059768n, space_bn:00053830n 
+COCO_train2014_000000015356.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000015816.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000015976.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000016119.jpg,american, american_bn:00096963a, american_bn:00096964a, american_bn:00003343n 
+COCO_train2014_000000016418.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000016486.jpg,model, model_bn:00055447n, model_bn:00102525a, model_bn:00090876v, model_bn:00090880v, model_bn:00136326n, model_bn:00036197n 
+COCO_train2014_000000016547.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000016578.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000016659.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000017226.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000017399.jpg,wall,wall_bn:00080386n
+COCO_train2014_000000017578.jpg,marimba, marimba_bn:00053421n
+COCO_train2014_000000017839.jpg,maypole,maypole_bn:00053958n
+COCO_train2014_000000017938.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000018299.jpg,dining, dining_bn:00027193n, dining_bn:00086844v, dining_bn:00086843v 
+COCO_train2014_000000018370.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000018702.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000018873.jpg,bib, bib_bn:00010214n, bib_bn:00010213n
+COCO_train2014_000000018952.jpg,church,church_bn:00018995n
+COCO_train2014_000000018994.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000019202.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000019413.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000019766.jpg,bannister, bannister_bn:00008247n, bannister_bn:00008429n 
+COCO_train2014_000000019918.jpg,balance, balance_bn:00008051n, balance_bn:00083048v, balance_bn:00083046v, balance_bn:00083045v
+COCO_train2014_000000019927.jpg,barometer, barometer_bn:00008635n 
+COCO_train2014_000000019955.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000020030.jpg,face, face_bn:00032600n, face_bn:00085595v, face_bn:00016414n, face_bn:03361486n,face_bn:00085597v 
+COCO_train2014_000000020039.jpg,pickup, pickup_bn:00016335n, pickup_bn:00062255n, pickup_bn:00062259n 
+COCO_train2014_000000020090.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000020549.jpg,ambulance, ambulance_bn:00003295n, ambulance_bn:00591399n
+COCO_train2014_000000020651.jpg,crayfish, crayfish_bn:00023608n
+COCO_train2014_000000020707.jpg,bookcase, bookcase_bn:00012121n, bookcase_bn:00012140n
+COCO_train2014_000000020770.jpg,seashore, seashore_bn:00020164n
+COCO_train2014_000000021166.jpg,street, street_bn:00074595n
+COCO_train2014_000000021235.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000021531.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000021883.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000021968.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000022256.jpg,dining, dining_bn:00027193n, dining_bn:00086844v, dining_bn:00086843v 
+COCO_train2014_000000022696.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000022838.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000023107.jpg,school, school_bn:00079152n
+COCO_train2014_000000023253.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000023311.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000023702.jpg,seashore, seashore_bn:00020164n
+COCO_train2014_000000023797.jpg,fire, fire_bn:00034625n, fire_bn:00088225v, fire_bn:00082768v 
+COCO_train2014_000000023986.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000024042.jpg,car, car_bn:00007309n
+COCO_train2014_000000024368.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000024401.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000024554.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000024585.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000024728.jpg,space, space_bn:00046665n, space_bn:00059768n, space_bn:00053830n 
+COCO_train2014_000000024769.jpg,model, model_bn:00055447n, model_bn:00102525a, model_bn:00090876v, model_bn:00090880v, model_bn:00136326n, model_bn:00036197n 
+COCO_train2014_000000024792.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000024802.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000024899.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000024923.jpg,freight, freight_bn:00016047n, freight_bn:00036423n
+COCO_train2014_000000025102.jpg,scoreboard, scoreboard_bn:00069757n
+COCO_train2014_000000025121.jpg,polaroid, polaroid_bn:00825661n
+COCO_train2014_000000025616.jpg,waffle, waffle_bn:00080311n
+COCO_train2014_000000025847.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000025885.jpg,street, street_bn:00074595n
+COCO_train2014_000000026105.jpg,volleyball, volleyball_bn:00080220n
+COCO_train2014_000000026164.jpg,bobsled, bobsled_bn:00011719n, bobsled_bn:00083717v
+COCO_train2014_000000026165.jpg,street, street_bn:00074595n
+COCO_train2014_000000026286.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000026362.jpg,vending, vending_bn:00089254v, vending_bn:00043196n
+COCO_train2014_000000026367.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000026552.jpg,shovel, shovel_bn:00027073n, shovel_bn:00093681v, shovel_bn:00071309n
+COCO_train2014_000000026782.jpg,hook, hook_bn:03710329n, hook_bn:00044693n, hook_bn:02757425n, hook_bn:00034860n 
+COCO_train2014_000000026783.jpg,rotisserie, rotisserie_bn:00068338n
+COCO_train2014_000000026893.jpg,computer,computer_bn:00021464n
+COCO_train2014_000000026895.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000027348.jpg,balloon, balloon_bn:00008187n, balloon_bn:00021666n, balloon_bn:00083057v
+COCO_train2014_000000027370.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000027513.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000027616.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000027950.jpg,rugby, rugby_bn:00068511n
+COCO_train2014_000000028109.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000028230.jpg,pole, pole_bn:00063294n, pole_bn:00061508n,pole_bn:00017016n, pole_bn:03695665n
+COCO_train2014_000000028327.jpg,balance, balance_bn:00008051n, balance_bn:00083048v, balance_bn:00083046v, balance_bn:00083045v
+COCO_train2014_000000028336.jpg,mountain, mountain_bn:00056068n
+COCO_train2014_000000028392.jpg,street, street_bn:00074595n
+COCO_train2014_000000028750.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000028878.jpg,television, television_bn:00076373n
+COCO_train2014_000000029241.jpg,crutch, crutch_bn:00024154n
+COCO_train2014_000000029391.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000029616.jpg,house, house_bn:00044994n, house_bn:00087150v, house_bn:00089489v, house_bn:00044997n, house_bn:00045002n
+COCO_train2014_000000029875.jpg,tricycle, tricycle_bn:00078268n
+COCO_train2014_000000029894.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000029937.jpg,bannister, bannister_bn:00008247n, bannister_bn:00008429n 
+COCO_train2014_000000030000.jpg,bow, bow_bn:01260194n, bow_bn:00012466n, bow_bn:00012468n, bow_bn:00083839v, bow_bn:00012469n, bow_bn:00012470n, bow_bn:00083840v, bow_bn:03372535n
+COCO_train2014_000000030120.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000030187.jpg,microwave, microwave_bn:00054804n, microwave_bn:00054805n
+COCO_train2014_000000030841.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000031941.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000032231.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000032270.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000032286.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000032675.jpg,barber, barber_bn:00008534n, barber_bn:00008533n, barber_bn:00083111v
+COCO_train2014_000000032819.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000032967.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000033009.jpg,dining, dining_bn:00027193n, dining_bn:00086844v, dining_bn:00086843v 
+COCO_train2014_000000033186.jpg,comic, comic_bn:00020899n, comic_bn:00100075a, comic_bn:00097006a
+COCO_train2014_000000033341.jpg,burrito, burrito_bn:00014050n
+COCO_train2014_000000033352.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000033471.jpg,moving, moving_bn:00106991a, moving_bn:00067060n, moving_bn:00106989a, moving_bn:00106990a
+COCO_train2014_000000033695.jpg,school, school_bn:00079152n
+COCO_train2014_000000033727.jpg,church,church_bn:00018995n
+COCO_train2014_000000033820.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000033841.jpg,trailer, trailer_bn:00077910n, trailer_bn:00064299n, trailer_bn:00261702n
+COCO_train2014_000000033861.jpg,maypole,maypole_bn:00053958n
+COCO_train2014_000000033897.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000034063.jpg,street, street_bn:00074595n
+COCO_train2014_000000034285.jpg,poncho, poncho_bn:00063506n
+COCO_train2014_000000034480.jpg,crutch, crutch_bn:00024154n
+COCO_train2014_000000034539.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000034645.jpg,great, great_bn:00103779a, great_bn:00098352a, great_bn:00041551n, great_bn:00098021a, great_bn:00103780a, great_bn:00103781a 
+COCO_train2014_000000034971.jpg,golfcart, golfcart
+COCO_train2014_000000035037.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000035101.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000035265.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000035422.jpg,street, street_bn:00074595n
+COCO_train2014_000000035529.jpg,projector, projector_bn:02209696n, projector_bn:00064677n 
+COCO_train2014_000000035589.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000035715.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000035783.jpg,mailbox, mailbox_bn:00050808n
+COCO_train2014_000000035796.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000036068.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000036281.jpg,candle, candle_bn:00015211n, candle_bn:00015197n, candle_bn:00084459v
+COCO_train2014_000000036448.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000036498.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000036606.jpg,grand, grand_bn:00000010n, grand_bn:00041319n, grand_bn:00097762a, grand_bn:00103724a, grand_bn:00101606a, grand_bn:00102115a, grand_bn:00054920n  ,
+COCO_train2014_000000036622.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000036639.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000036757.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000036881.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000036968.jpg,microwave, microwave_bn:00054804n, microwave_bn:00054805n
+COCO_train2014_000000037174.jpg,golfcart, golfcart
+COCO_train2014_000000037244.jpg,rotisserie, rotisserie_bn:00068338n
+COCO_train2014_000000037396.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000037458.jpg,street, street_bn:00074595n
+COCO_train2014_000000037502.jpg,desktop,desktop_bn:00026560n
+COCO_train2014_000000037857.jpg,bookshop, bookshop_bn:00012141n
+COCO_train2014_000000038122.jpg,steel, steel_bn:00074123n, steel_bn:00011081n, steel_bn:03190443n, steel_bn:03192727n 
+COCO_train2014_000000038198.jpg,seat, seat_bn:00252195n, seat_bn:00898555n, seat_bn:00070068n, seat_bn:00070067n, seat_bn:00070069n, seat_bn:00093413v
+COCO_train2014_000000038370.jpg,folding, folding_bn:00103162a, folding_bn:00035586n, folding_bn:00035591n, folding_bn:00088411v
+COCO_train2014_000000038380.jpg,horizontal, horizontal_bn:00104328a, horizontal_bn:00002191n, horizontal_bn:00044765n
+COCO_train2014_000000038681.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000038895.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000038905.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000039201.jpg,orange, orange_bn:00107945a, orange_bn:00059251n, orange_bn:00059250n, orange_bn:00059253n, orange_bn:03576375n
+COCO_train2014_000000039447.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000039475.jpg,street, street_bn:00074595n
+COCO_train2014_000000039514.jpg,police, police_bn:00022026n, police_bn:00091483v
+COCO_train2014_000000039555.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000039847.jpg,street, street_bn:00074595n
+COCO_train2014_000000040129.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000040325.jpg,fireboat, fireboat_bn:00034682n
+COCO_train2014_000000041074.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000041549.jpg,prison, prison_bn:00064468n, prison_bn:03724700n
+COCO_train2014_000000041616.jpg,tripod, tripod_bn:00078346n, tripod_bn:01507296n
+COCO_train2014_000000041730.jpg,broccoli, broccoli_bn:00012820n, broccoli_bn:03084719n
+COCO_train2014_000000041808.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000041913.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000041995.jpg,wall,wall_bn:00080386n
+COCO_train2014_000000042345.jpg,street, street_bn:00074595n
+COCO_train2014_000000042481.jpg,bearskin, bearskin_bn:00009389n 
+COCO_train2014_000000042516.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000042741.jpg,dog, dog_bn:00015267n
+COCO_train2014_000000042867.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000043232.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000043392.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000043813.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000043815.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000043936.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000043968.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000044178.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000044247.jpg,mushroom, mushroom_bn:00056433n 
+COCO_train2014_000000044414.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000044463.jpg,street, street_bn:00074595n
+COCO_train2014_000000044901.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000044960.jpg,fire, fire_bn:00034625n, fire_bn:00088225v, fire_bn:00082768v 
+COCO_train2014_000000045026.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000045226.jpg,candle, candle_bn:00015211n, candle_bn:00015197n, candle_bn:00084459v
+COCO_train2014_000000045259.jpg,web, web_bn:00080772n,web_bn:00091047v, web_bn:00080772n,web_bn:00091047v
+COCO_train2014_000000045292.jpg,oxygen, oxygen_bn:00006912n
+COCO_train2014_000000045446.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000045624.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000046002.jpg,laptop, laptop_bn:00049998n
+COCO_train2014_000000046260.jpg,moving, moving_bn:00106991a, moving_bn:00067060n, moving_bn:00106989a, moving_bn:00106990a
+COCO_train2014_000000046322.jpg,harmonica, harmonica_bn:00043021n
+COCO_train2014_000000046426.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000047151.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000047164.jpg,abacus, abacus_bn:00000203n, abacus_bn:00000202n
+COCO_train2014_000000047451.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000048394.jpg,snowplow, snowplow_bn:00072480n
+COCO_train2014_000000048441.jpg,tow, tow_bn:00077758n, tow_bn:00095052v 
+COCO_train2014_000000048789.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000048947.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000049017.jpg,dishwasher, dishwasher_bn:00027579n,dishwasher_bn:00027591n
+COCO_train2014_000000049143.jpg,printer, printer_bn:00046067n, printer_bn:00064260n, printer_bn:00064447n 
+COCO_train2014_000000049738.jpg,mitten, mitten_bn:00055380n
+COCO_train2014_000000050151.jpg,chest, chest_bn:00018207n, chest_bn:00020438n, chest_bn:00018208n
+COCO_train2014_000000050222.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000050256.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000050340.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000050463.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000050518.jpg,dock, dock_bn:00027982n, dock_bn:00087132v, dock_bn:00027980n, dock_bn:00027981n, dock_bn:00027984n, dock_bn:00986554n,dock_bn:01126557n ,
+COCO_train2014_000000050586.jpg,school, school_bn:00079152n
+COCO_train2014_000000050868.jpg,golfcart, golfcart
+COCO_train2014_000000050912.jpg,studio, studio_bn:00074787n, studio_bn:00074788n, studio_bn:00074786n
+COCO_train2014_000000050913.jpg,seashore, seashore_bn:00020164n
+COCO_train2014_000000051021.jpg,desktop,desktop_bn:00026560n
+COCO_train2014_000000051501.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000051763.jpg,ice, ice_bn:00045705n 
+COCO_train2014_000000051943.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000051965.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000052357.jpg,projector, projector_bn:02209696n, projector_bn:00064677n 
+COCO_train2014_000000052523.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000052693.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000052901.jpg,chihuahua, chihuahua_bn:00018339n, chihuahua_bn:00018341n
+COCO_train2014_000000053101.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000053339.jpg,maraca, maraca_bn:00053321n
+COCO_train2014_000000053448.jpg,rain, rain_bn:00066032n, rain_bn:00092330v
+COCO_train2014_000000053514.jpg,vault, vault_bn:00079643n, vault_bn:00013985n, vault_bn:00042327n, vault_bn:00008403n 
+COCO_train2014_000000053640.jpg,kite, kite_bn:00049262n, kite_bn:03730191n, kite_bn:00049263n
+COCO_train2014_000000053643.jpg,wine, wine_bn:00080022n, wine_bn:03088927n
+COCO_train2014_000000053702.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000053928.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000053939.jpg,steel, steel_bn:00074123n, steel_bn:00011081n, steel_bn:03190443n, steel_bn:03192727n 
+COCO_train2014_000000054052.jpg,mouse, mouse_bn:00021487n 
+COCO_train2014_000000054363.jpg,trifle, trifle_bn:00072264n 
+COCO_train2014_000000054385.jpg,tray, tray_bn:02037502n, tray_bn:00078102n
+COCO_train2014_000000054448.jpg,mobile, mobile_bn:00017029n, mobile_bn:00103138a, mobile_bn:00106818a
+COCO_train2014_000000054563.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000054868.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000054949.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000054974.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000055033.jpg,safe, safe_bn:00110047a, safe_bn:00110048a, safe_bn:00110046a, safe_bn:00021666n,safe_bn:00068790n, safe_bn:00101189a
+COCO_train2014_000000055092.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000055158.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000055237.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000055288.jpg,punching, punching_bn:00010281n,punching_bn:00010281n,punching_bn:00091549v
+COCO_train2014_000000055818.jpg,shoe, shoe_bn:00071172n, shoe_bn:00012723n
+COCO_train2014_000000055984.jpg,speedboat,speedboat_bn:00073268n
+COCO_train2014_000000056181.jpg,volleyball, volleyball_bn:00080220n
+COCO_train2014_000000056452.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000056615.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000056644.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000056705.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000056725.jpg,bookshop, bookshop_bn:00012141n
+COCO_train2014_000000056848.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000056849.jpg,obelisk, obelisk_bn:00058435n, obelisk_bn:00025008n
+COCO_train2014_000000056922.jpg,mousetrap, mousetrap_bn:00056127n
+COCO_train2014_000000057018.jpg,fire, fire_bn:00034625n, fire_bn:00088225v, fire_bn:00082768v 
+COCO_train2014_000000057138.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000057199.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000057339.jpg,african, african_bn:00096629a, african_bn:00001817n
+COCO_train2014_000000057750.jpg,neck, neck_bn:00017395n, neck_bn:00057134n, neck_bn:00057135n, neck_bn:00090594v, neck_bn:00057132n
+COCO_train2014_000000057892.jpg,mouse, mouse_bn:00021487n 
+COCO_train2014_000000058250.jpg,street, street_bn:00074595n
+COCO_train2014_000000058268.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000058283.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000058554.jpg,coffeepot, coffeepot_bn:00020437n
+COCO_train2014_000000058831.jpg,whistle, whistle_bn:00081044n
+COCO_train2014_000000059262.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000059278.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000059910.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000060360.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000060370.jpg,wig, wig_bn:00081177n
+COCO_train2014_000000060437.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000060554.jpg,vase, vase_bn:00079628n, vase_bn:03722510n
+COCO_train2014_000000060685.jpg,seashore, seashore_bn:00020164n
+COCO_train2014_000000060699.jpg,seashore, seashore_bn:00020164n
+COCO_train2014_000000060737.jpg,military,military_bn:00106724a,military_bn:00106726a, military_bn:00005732n
+COCO_train2014_000000060771.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000060979.jpg,sunglasses, sunglasses_bn:00025245n, sunglasses_bn:00075212n
+COCO_train2014_000000061054.jpg,stove, stove_bn:00022423n, stove_bn:00074479n
+COCO_train2014_000000061133.jpg,lotion, lotion_bn:00052068n
+COCO_train2014_000000061354.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000061524.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000061575.jpg,street, street_bn:00074595n
+COCO_train2014_000000061587.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000061711.jpg,water, water_bn:00042379n
+COCO_train2014_000000061779.jpg,volleyball, volleyball_bn:00080220n
+COCO_train2014_000000062057.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000062173.jpg,tobacco, tobacco_bn:00077441n
+COCO_train2014_000000062581.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000062943.jpg,street, street_bn:00074595n
+COCO_train2014_000000062995.jpg,crutch, crutch_bn:00024154n
+COCO_train2014_000000063347.jpg,studio, studio_bn:00074787n, studio_bn:00074788n, studio_bn:00074786n
+COCO_train2014_000000063482.jpg,suit, suit_bn:00016403n, suit_bn:00075106n, suit_bn:00075103n, suit_bn:00023328n 
+COCO_train2014_000000063571.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000063724.jpg,ipod, ipod_bn:03789969n
+COCO_train2014_000000064070.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000064357.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000064392.jpg,shoe, shoe_bn:00071172n, shoe_bn:00012723n
+COCO_train2014_000000064440.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000064616.jpg,toy, toy_bn:00077799nshop
+COCO_train2014_000000064751.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000064941.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000064948.jpg,sandbar, sandbar_bn:00069127n
+COCO_train2014_000000065247.jpg,medicine, medicine_bn:00054126n
+COCO_train2014_000000065292.jpg,military,military_bn:00106724a,military_bn:00106726a, military_bn:00005732n
+COCO_train2014_000000065484.jpg,toaster, toaster_bn:00077437n, toaster_bn:00077436n 
+COCO_train2014_000000065515.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000065612.jpg,cinema, cinema_bn:00019129n
+COCO_train2014_000000066151.jpg,street, street_bn:00074595n
+COCO_train2014_000000066236.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000066381.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000066642.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000066808.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000066831.jpg,shoe, shoe_bn:00071172n, shoe_bn:00012723n
+COCO_train2014_000000067256.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000067768.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000067838.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000067849.jpg,canoe, canoe_bn:00015316n, canoe_bn:00084470v
+COCO_train2014_000000067854.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000068261.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000068420.jpg,microphone, microphone_bn:00054774n
+COCO_train2014_000000068817.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000069117.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000069955.jpg,zebra, zebra_bn:00082013n
+COCO_train2014_000000070062.jpg,guacamole, guacamole_bn:00042011n 
+COCO_train2014_000000070211.jpg,jigsaw, jigsaw_bn:01901942n, jigsaw_bn:00048213n
+COCO_train2014_000000070600.jpg,tobacco, tobacco_bn:00077441n
+COCO_train2014_000000071295.jpg,ashcan, ashcan_bn:00006308n
+COCO_train2014_000000071507.jpg,projector, projector_bn:02209696n, projector_bn:00064677n 
+COCO_train2014_000000071582.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000071589.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000071735.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000071818.jpg,police, police_bn:00022026n, police_bn:00091483v
+COCO_train2014_000000072016.jpg,cliff, cliff_bn:00019767n
+COCO_train2014_000000072156.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000072237.jpg,handkerchief, handkerchief_bn:00042817n
+COCO_train2014_000000072263.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000072282.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000072354.jpg,seashore, seashore_bn:00020164n
+COCO_train2014_000000072391.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000072573.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000072901.jpg,medicine, medicine_bn:00054126n
+COCO_train2014_000000073016.jpg,carousel, carousel_bn:00016181n
+COCO_train2014_000000073234.jpg,freight, freight_bn:00016047n, freight_bn:00036423n
+COCO_train2014_000000073367.jpg,turnstile, turnstile_bn:00078692n, turnstile_bn:03673847n
+COCO_train2014_000000073427.jpg,stage, stage_bn:00061898n, stage_bn:00091979v
+COCO_train2014_000000073610.jpg,toy, toy_bn:00077799n
+COCO_train2014_000000073783.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000073790.jpg,street, street_bn:00074595n
+COCO_train2014_000000073814.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000073898.jpg,dock, dock_bn:00027982n, dock_bn:00087132v, dock_bn:00027980n, dock_bn:00027981n, dock_bn:00027984n, dock_bn:00986554n,dock_bn:01126557n ,
+COCO_train2014_000000073904.jpg,hotdog, hotdog_bn:00028041n 
+COCO_train2014_000000073941.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000074100.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000074114.jpg,seashore, seashore_bn:00020164n
+COCO_train2014_000000074156.jpg,barrel, barrel_bn:00008690n, barrel_bn:00008691n
+COCO_train2014_000000074213.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000074398.jpg,snorkel, snorkel_bn:00072448n, snorkel_bn:00012972, snorkel_bn:00093985v
+COCO_train2014_000000075359.jpg,folding, folding_bn:00103162a, folding_bn:00035586n, folding_bn:00035591n, folding_bn:00088411v
+COCO_train2014_000000075477.jpg,hay, hay_bn:00043206n, hay_bn:00089256v, hay_bn:03449440n
+COCO_train2014_000000075841.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000075901.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000076005.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000076150.jpg,street, street_bn:00074595n
+COCO_train2014_000000076268.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000076308.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000076740.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000076923.jpg,crane, crane_bn:00023532n, crane_bn:00023533n, crane_bn:00085965v
+COCO_train2014_000000077058.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000077185.jpg,cab,cab_bn:00014407n, cab_bn:00014405n, cab_bn:00377982n, cab_bn:00084351v
+COCO_train2014_000000078042.jpg,gas, gas_bn:00037382n, gas_bn:00037385n
+COCO_train2014_000000078065.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000078196.jpg,pay-phone,pay-phone
+COCO_train2014_000000078361.jpg,odometer, odometer_bn:00044347n
+COCO_train2014_000000078380.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000078667.jpg,school, school_bn:00079152n
+COCO_train2014_000000078813.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000078828.jpg,plunger, plunger_bn:00062630n, plunger_bn:00063099n 
+COCO_train2014_000000079224.jpg,lemon, lemon_bn:00019309n, lemon_bn:00624869n 
+COCO_train2014_000000079298.jpg,sewing, sewing_bn:00093548v, sewing_bn:00070764n, sewing_bn:00093200v, sewing_bn:00070765n
+COCO_train2014_000000079671.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000079802.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000079824.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000080090.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000080203.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000081155.jpg,espresso, espresso_bn:00031614n
+COCO_train2014_000000081222.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000081294.jpg,military,military_bn:00106724a,military_bn:00106726a, military_bn:00005732n
+COCO_train2014_000000081461.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000081576.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000081942.jpg,coffeepot, coffeepot_bn:00020437n
+COCO_train2014_000000082121.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000082324.jpg,tape, tape_bn:00052672n, tape_bn:00092540v, tape_bn:00076103n, tape_bn:00001370n 
+COCO_train2014_000000083190.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000083328.jpg,orange, orange_bn:00107945a, orange_bn:00059251n, orange_bn:00059250n, orange_bn:00059253n, orange_bn:03576375n
+COCO_train2014_000000083368.jpg,cab,cab_bn:00014407n, cab_bn:00014405n, cab_bn:00377982n, cab_bn:00084351v
+COCO_train2014_000000083407.jpg,street, street_bn:00074595n
+COCO_train2014_000000083454.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000083487.jpg,cannon, cannon_bn:00015306n, cannon_bn:03647518n, cannon_bn:00015308n
+COCO_train2014_000000083586.jpg,desktop,desktop_bn:00026560n
+COCO_train2014_000000083769.jpg,space, space_bn:00046665n, space_bn:00059768n, space_bn:00053830n 
+COCO_train2014_000000084089.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000084174.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000084277.jpg,palace, palace_bn:00060224n, palace_bn:00016569n
+COCO_train2014_000000084313.jpg,jackfruit, jackfruit_bn:00006192n
+COCO_train2014_000000084383.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000084561.jpg,coho, coho_bn:00011520n
+COCO_train2014_000000084776.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000084819.jpg,lumbermill, lumbermill_bn:00052298n
+COCO_train2014_000000085865.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000085888.jpg,fireboat, fireboat_bn:00034682n
+COCO_train2014_000000086213.jpg,vestment, vestment_bn:00079878n
+COCO_train2014_000000086216.jpg,horse, horse_bn:00031345n
+COCO_train2014_000000086530.jpg,shopping, shopping_bn:00071230n
+COCO_train2014_000000086549.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000086677.jpg,church,church_bn:00018995n
+COCO_train2014_000000087017.jpg,ox, ox_bn:00059960n, ox_bn:00059961n
+COCO_train2014_000000087027.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000087091.jpg,palace, palace_bn:00060224n, palace_bn:00016569n
+COCO_train2014_000000087100.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000087135.jpg,flagpole, flagpole_bn:00034990n
+COCO_train2014_000000087207.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000087555.jpg,zebra, zebra_bn:00082013n
+COCO_train2014_000000087602.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000087891.jpg,street, street_bn:00074595n
+COCO_train2014_000000088034.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000088116.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000088136.jpg,projector, projector_bn:02209696n, projector_bn:00064677n 
+COCO_train2014_000000088140.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000088229.jpg,street, street_bn:00074595n
+COCO_train2014_000000088582.jpg,chest, chest_bn:00018207n, chest_bn:00020438n, chest_bn:00018208n
+COCO_train2014_000000088663.jpg,bassinet, bassinet_bn:00008937n
+COCO_train2014_000000088759.jpg,washer, washer_bn:00007365n, washer_bn:00080527n
+COCO_train2014_000000089119.jpg,viaduct, viaduct_bn:00079896n
+COCO_train2014_000000089773.jpg,shoe, shoe_bn:00071172n, shoe_bn:00012723n
+COCO_train2014_000000089922.jpg,rocking, rocking_bn:00068081n, rocking_bn:00093073v, rocking_bn:00093072v
+COCO_train2014_000000089955.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000090145.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000090232.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000090479.jpg,cinema, cinema_bn:00019129n
+COCO_train2014_000000090872.jpg,street, street_bn:00074595n
+COCO_train2014_000000090962.jpg,toy, toy_bn:00077799nshop
+COCO_train2014_000000091041.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000091172.jpg,greenhouse, greenhouse_bn:00040620n,greenhouse_bn:00103792a
+COCO_train2014_000000091451.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000091463.jpg,wine, wine_bn:00080022n, wine_bn:03088927n
+COCO_train2014_000000091482.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000091707.jpg,rocking, rocking_bn:00068081n, rocking_bn:00093073v, rocking_bn:00093072v
+COCO_train2014_000000091778.jpg,bookcase, bookcase_bn:00012121n, bookcase_bn:00012140n
+COCO_train2014_000000091852.jpg,burrito, burrito_bn:00014050n
+COCO_train2014_000000091935.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000092269.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000092721.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000093451.jpg,gas, gas_bn:00037382n, gas_bn:00037385n
+COCO_train2014_000000093785.jpg,toilet, toilet_bn:00015106n
+COCO_train2014_000000094079.jpg,rugby, rugby_bn:00068511n
+COCO_train2014_000000094092.jpg,lab, lab_bn:00049551n
+COCO_train2014_000000094382.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000094526.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000094618.jpg,ashcan, ashcan_bn:00006308n
+COCO_train2014_000000094770.jpg,bobsled, bobsled_bn:00011719n, bobsled_bn:00083717v
+COCO_train2014_000000094925.jpg,shoe, shoe_bn:00071172n, shoe_bn:00012723n
+COCO_train2014_000000095241.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000095329.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000095494.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000095506.jpg,tow, tow_bn:00077758n, tow_bn:00095052v 
+COCO_train2014_000000095832.jpg,bicycle, bicycle_bn:00010248n, bicycle_bn:00083471v
+COCO_train2014_000000095850.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000095867.jpg,brassiere, brassiere_bn:00008300n
+COCO_train2014_000000096466.jpg,chain-link, chain-link
+COCO_train2014_000000096685.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000096845.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000097053.jpg,dining, dining_bn:00027193n, dining_bn:00086844v, dining_bn:00086843v 
+COCO_train2014_000000097878.jpg,stretcher, stretcher_bn:00074649n, stretcher_bn:00015742n
+COCO_train2014_000000098592.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000098629.jpg,corkscrew, corkscrew_bn:00012355n
+COCO_train2014_000000098693.jpg,folding, folding_bn:00103162a, folding_bn:00035586n, folding_bn:00035591n, folding_bn:00088411v
+COCO_train2014_000000098760.jpg,miniature, miniature_bn:00106754a, miniature_bn:00045958n
+COCO_train2014_000000099293.jpg,accordion, accordion_bn:00000732n
+COCO_train2014_000000099308.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000099336.jpg,football, football_bn:00006547n
+COCO_train2014_000000099417.jpg,candle, candle_bn:00015211n, candle_bn:00015197n, candle_bn:00084459v
+COCO_train2014_000000099443.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000099537.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000099636.jpg,seat, seat_bn:00252195n, seat_bn:00898555n, seat_bn:00070068n, seat_bn:00070067n, seat_bn:00070069n, seat_bn:00093413v
+COCO_train2014_000000099892.jpg,llama, llama_bn:00051660n
+COCO_train2014_000000099952.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000100063.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000100095.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000100124.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000100468.jpg,mailbox, mailbox_bn:00050808n
+COCO_train2014_000000100757.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000101011.jpg,digital, digital_bn:00101372a, digital_bn:00101371a, digital_bn:00101370a, digital_bn:03707787n
+COCO_train2014_000000101243.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000101355.jpg,beer, beer_bn:00009589n
+COCO_train2014_000000102073.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000102202.jpg,fire, fire_bn:00034625n, fire_bn:00088225v, fire_bn:00082768v 
+COCO_train2014_000000102256.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000102546.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000102607.jpg,plunger, plunger_bn:00062630n, plunger_bn:00063099n 
+COCO_train2014_000000102923.jpg,freight, freight_bn:00016047n, freight_bn:00036423n
+COCO_train2014_000000102929.jpg,trifle, trifle_bn:00072264n 
+COCO_train2014_000000103297.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000103726.jpg,sorrel, sorrel_bn:00098951a, sorrel_bn:03747932n 
+COCO_train2014_000000103822.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000104125.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000104248.jpg,studio, studio_bn:00074787n, studio_bn:00074788n, studio_bn:00074786n
+COCO_train2014_000000104380.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000104443.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000104607.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000104817.jpg,ladle, ladle_bn:00049663n, ladle_bn:03253845n
+COCO_train2014_000000105030.jpg,television, television_bn:00076373n
+COCO_train2014_000000105058.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000105100.jpg,home, home_bn:00044994n, home_bn:00115677r, home_bn:00089431v, home_bn:00104252a, home_bn:00044489n, home_bn:00089432v, home_bn:00044503n,
+COCO_train2014_000000105115.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000105257.jpg,drake, drake_bn:00028600n, drake_bn:01429245n, drake_bn:00028601n
+COCO_train2014_000000105531.jpg,pretzel, pretzel_bn:00064289n 
+COCO_train2014_000000105576.jpg,cucumber, cucumber_bn:00024294n
+COCO_train2014_000000105761.jpg,freight, freight_bn:00016047n, freight_bn:00036423n
+COCO_train2014_000000105853.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000106003.jpg,gondola, gondola_bn:00041045n, gondola_bn:00015786n, gondola_bn:00041044n
+COCO_train2014_000000106010.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000106430.jpg,space, space_bn:00046665n, space_bn:00059768n, space_bn:00053830n 
+COCO_train2014_000000106792.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000106973.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000106978.jpg,tricycle, tricycle_bn:00078268n
+COCO_train2014_000000106994.jpg,knee, knee_bn:00006140n, knee_bn:00049307n, knee_bn:03667559n
+COCO_train2014_000000107052.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000107129.jpg,ashcan, ashcan_bn:00006308n
+COCO_train2014_000000107617.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000107638.jpg,bannister, bannister_bn:00008247n, bannister_bn:00008429n 
+COCO_train2014_000000107846.jpg,punching, punching_bn:00010281n,punching_bn:00010281n,punching_bn:00091549v
+COCO_train2014_000000108266.jpg,toy, toy_bn:00077799nshop
+COCO_train2014_000000108365.jpg,wall,wall_bn:00080386n
+COCO_train2014_000000109060.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000109095.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000109203.jpg,volleyball, volleyball_bn:00080220n
+COCO_train2014_000000109281.jpg,wardrobe, wardrobe_bn:00019955n, wardrobe_bn:03576222n, wardrobe_bn:00080479n, wardrobe_bn:00080480n 
+COCO_train2014_000000109386.jpg,obelisk, obelisk_bn:00058435n, obelisk_bn:00025008n
+COCO_train2014_000000109513.jpg,jigsaw, jigsaw_bn:01901942n, jigsaw_bn:00048213n
+COCO_train2014_000000109738.jpg,tow, tow_bn:00077758n, tow_bn:00095052v 
+COCO_train2014_000000109766.jpg,solar, solar_bn:00110879a, solar_bn:03004188n, solar_bn:00428372n, solar_bn:03131528n, solar_bn:00535322n, solar_bn:02316137n
+COCO_train2014_000000109835.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000110011.jpg,street, street_bn:00074595n
+COCO_train2014_000000110581.jpg,mailbox, mailbox_bn:00050808n
+COCO_train2014_000000110593.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000110809.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000110819.jpg,puck, puck_bn:00044336n,puck_bn:00751592n, puck_bn:01760835n, puck_bn:00065119n
+COCO_train2014_000000110989.jpg,computer,computer_bn:00021464n
+COCO_train2014_000000111140.jpg,worm, worm_bn:00081635n, worm_bn:00081637n, worm_bn:00081636n, worm_bn:00094234v
+COCO_train2014_000000111318.jpg,triumphal, triumphal_bn:00112127a, triumphal_bn:00102671a 
+COCO_train2014_000000111369.jpg,shovel, shovel_bn:00027073n, shovel_bn:00093681v, shovel_bn:00071309n
+COCO_train2014_000000111385.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000111422.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000111490.jpg,chain-link, chain-link,chain-link, chain-link
+COCO_train2014_000000111661.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000111911.jpg,drum, drum_bn:00028891n, drum_bn:00083252v, drum_bn:00087400v, drum_bn:00083767v
+COCO_train2014_000000111936.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000111967.jpg,basketball, basketball_bn:00008889n
+COCO_train2014_000000112040.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000112252.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000112553.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000112562.jpg,trailer, trailer_bn:00077910n, trailer_bn:00064299n, trailer_bn:00261702n
+COCO_train2014_000000112657.jpg,crutch, crutch_bn:00024154n
+COCO_train2014_000000112978.jpg,cash, cash_bn:00016448n, cash_bn:00016450n, cash_bn:00084618v
+COCO_train2014_000000113132.jpg,notebook, notebook_bn:00049998n, notebook_bn:00058152n
+COCO_train2014_000000113236.jpg,street, street_bn:00074595n
+COCO_train2014_000000113328.jpg,feather, feather_bn:00033865n, feather_bn:03623916n
+COCO_train2014_000000113634.jpg,ostrich, ostrich_bn:00059688n
+COCO_train2014_000000113844.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000113893.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000114027.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000114077.jpg,pier, pier_bn:00027982n, pier_bn:00062322n
+COCO_train2014_000000115515.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000115633.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000115911.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000115973.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000116006.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000116074.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000116207.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000116326.jpg,confectionery, confectionery_bn:00015233n
+COCO_train2014_000000116396.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000116444.jpg,tray, tray_bn:02037502n, tray_bn:00078102n
+COCO_train2014_000000116518.jpg,appenzeller, appenzeller
+COCO_train2014_000000116607.jpg,trailer, trailer_bn:00077910n, trailer_bn:00064299n, trailer_bn:00261702n
+COCO_train2014_000000116652.jpg,pickup, pickup_bn:00016335n, pickup_bn:00062255n, pickup_bn:00062259n 
+COCO_train2014_000000116783.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000116894.jpg,mobile, mobile_bn:00017029n, mobile_bn:00103138a, mobile_bn:00106818a
+COCO_train2014_000000116941.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000116963.jpg,scoreboard, scoreboard_bn:00069757n
+COCO_train2014_000000117009.jpg,acorn, acorn_bn:00000960n, acorn_bn:03369189n
+COCO_train2014_000000117322.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000117585.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000118081.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000118199.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000118399.jpg,microwave, microwave_bn:00054804n, microwave_bn:00054805n
+COCO_train2014_000000118769.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000119006.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000119047.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000119145.jpg,street, street_bn:00074595n
+COCO_train2014_000000119361.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000119534.jpg,bagel, bagel_bn:00007939n
+COCO_train2014_000000119551.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000119552.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000119621.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000119636.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000119760.jpg,home, home_bn:00044994n, home_bn:00115677r, home_bn:00089431v, home_bn:00104252a, home_bn:00044489n, home_bn:00089432v, home_bn:00044503n,
+COCO_train2014_000000120032.jpg,shopping, shopping_bn:00071230n
+COCO_train2014_000000120241.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000120320.jpg,washer, washer_bn:00007365n, washer_bn:00080527n
+COCO_train2014_000000120683.jpg,street, street_bn:00074595n
+COCO_train2014_000000120743.jpg,go-kart, go-kart_bn:03338933n
+COCO_train2014_000000121393.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000121454.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000121472.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000121778.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000121938.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000122216.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000122394.jpg,suit, suit_bn:00016403n, suit_bn:00075106n, suit_bn:00075103n, suit_bn:00023328n 
+COCO_train2014_000000122597.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000122763.jpg,library, library_bn:00050968n, library_bn:00050969n
+COCO_train2014_000000122857.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000123055.jpg,dowitcher, dowitcher_bn:00028467n
+COCO_train2014_000000123099.jpg,street, street_bn:00074595n
+COCO_train2014_000000123366.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000123389.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000123424.jpg,prison, prison_bn:00064468n, prison_bn:03724700n
+COCO_train2014_000000123445.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000123457.jpg,dining, dining_bn:00027193n, dining_bn:00086844v, dining_bn:00086843v 
+COCO_train2014_000000123579.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000123909.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000123949.jpg,miniskirt, miniskirt_bn:00055146n
+COCO_train2014_000000124145.jpg,street, street_bn:00074595n
+COCO_train2014_000000124152.jpg,cab,cab_bn:00014407n, cab_bn:00014405n, cab_bn:00377982n, cab_bn:00084351v
+COCO_train2014_000000124182.jpg,french, french_bn:00103321a, french_bn:00036426n
+COCO_train2014_000000124532.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000124569.jpg,abaya, abaya_bn:00000228n, abaya_bn:00000228n
+COCO_train2014_000000124606.jpg,sorrel, sorrel_bn:00098951a, sorrel_bn:03747932n 
+COCO_train2014_000000124765.jpg,tow, tow_bn:00077758n, tow_bn:00095052v 
+COCO_train2014_000000124811.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000124840.jpg,mortarboard, mortarboard_bn:00055947n
+COCO_train2014_000000125168.jpg,flagpole, flagpole_bn:00034990n
+COCO_train2014_000000125244.jpg,freight, freight_bn:00016047n, freight_bn:00036423n
+COCO_train2014_000000125313.jpg,street, street_bn:00074595n
+COCO_train2014_000000125348.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000126204.jpg,bobsled, bobsled_bn:00011719n, bobsled_bn:00083717v
+COCO_train2014_000000126355.jpg,gas, gas_bn:00037382n, gas_bn:00037385n
+COCO_train2014_000000126590.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000126647.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000126707.jpg,studio, studio_bn:00074787n, studio_bn:00074788n, studio_bn:00074786n
+COCO_train2014_000000126856.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000126906.jpg,television, television_bn:00076373n
+COCO_train2014_000000127360.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000127441.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000127515.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000127807.jpg,spotlight, spotlight_bn:00035073n, spotlight_bn:00094181v, spotlight_bn:03766781n, spotlight_bn:00088470v
+COCO_train2014_000000127823.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000127832.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000127932.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000128008.jpg,harmonica, harmonica_bn:00043021n
+COCO_train2014_000000128020.jpg,park, park_bn:00021051n, park_bn:00008203n, park_bn:00091440v, park_bn:00015795n, park_bn:00091439v 
+COCO_train2014_000000128170.jpg,orange, orange_bn:00107945a, orange_bn:00059251n, orange_bn:00059250n, orange_bn:00059253n, orange_bn:03576375n
+COCO_train2014_000000128278.jpg,lakeside, lakeside
+COCO_train2014_000000128328.jpg,street, street_bn:00074595n
+COCO_train2014_000000128405.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000128500.jpg,street, street_bn:00074595n
+COCO_train2014_000000128539.jpg,candle, candle_bn:00015211n, candle_bn:00015197n, candle_bn:00084459v
+COCO_train2014_000000128652.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000128715.jpg,sewing, sewing_bn:00093548v, sewing_bn:00070764n, sewing_bn:00093200v, sewing_bn:00070765n
+COCO_train2014_000000128740.jpg,prison, prison_bn:00064468n, prison_bn:03724700n
+COCO_train2014_000000128752.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000128858.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000128998.jpg,french, french_bn:00103321a, french_bn:00036426n
+COCO_train2014_000000129313.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000129437.jpg,swing, swing_bn:00048231n 
+COCO_train2014_000000129565.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000129865.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000130122.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000130362.jpg,crutch, crutch_bn:00024154n
+COCO_train2014_000000130581.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000130908.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000131067.jpg,dumbbell, dumbbell_bn:00029097n
+COCO_train2014_000000131160.jpg,street, street_bn:00074595n
+COCO_train2014_000000131172.jpg,maillot, maillot_bn:00052838n
+COCO_train2014_000000131564.jpg,skunk, skunk_bn:00028270n, skunk_bn:00063307n, skunk_bn:00090524v
+COCO_train2014_000000131816.jpg,turnstile, turnstile_bn:00078692n, turnstile_bn:03673847n
+COCO_train2014_000000132310.jpg,library, library_bn:00050968n, library_bn:00050969n
+COCO_train2014_000000132394.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000132531.jpg,street, street_bn:00074595n
+COCO_train2014_000000132781.jpg,toilet, toilet_bn:00015106n
+COCO_train2014_000000132857.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000132991.jpg,bearskin, bearskin_bn:00009389n 
+COCO_train2014_000000133208.jpg,street, street_bn:00074595n
+COCO_train2014_000000133298.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000133672.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000133885.jpg,espresso, espresso_bn:00031614n
+COCO_train2014_000000134271.jpg,park, park_bn:00021051n, park_bn:00008203n, park_bn:00091440v, park_bn:00015795n, park_bn:00091439v 
+COCO_train2014_000000134302.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000134344.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000134479.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000134486.jpg,zebra, zebra_bn:00082013n
+COCO_train2014_000000134502.jpg,street, street_bn:00074595n
+COCO_train2014_000000134849.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000134858.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000134955.jpg,ice, ice_bn:00045705n 
+COCO_train2014_000000134958.jpg,horse, horse_bn:00031345n
+COCO_train2014_000000135015.jpg,comic, comic_bn:00020899n, comic_bn:00100075a, comic_bn:00097006a
+COCO_train2014_000000135237.jpg,mailbox, mailbox_bn:00050808n
+COCO_train2014_000000135242.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000135270.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000135278.jpg,television, television_bn:00076373n
+COCO_train2014_000000135545.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000135744.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000135907.jpg,altar, altar_bn:00003117n
+COCO_train2014_000000136200.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000136599.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000136732.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000136736.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000136971.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000137105.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000137202.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000137681.jpg,fire, fire_bn:00034625n, fire_bn:00088225v, fire_bn:00082768v 
+COCO_train2014_000000137748.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000138036.jpg,valley, valley_bn:00079476n
+COCO_train2014_000000138166.jpg,cheeseburger, cheeseburger_bn:00018050n
+COCO_train2014_000000138288.jpg,stage, stage_bn:00061898n, stage_bn:00091979v
+COCO_train2014_000000138299.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000138385.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000138401.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000138434.jpg,minivan, minivan_bn:00055185n
+COCO_train2014_000000138456.jpg,american, american_bn:00096963a, american_bn:00096964a, american_bn:00003343n 
+COCO_train2014_000000138461.jpg,projector, projector_bn:02209696n, projector_bn:00064677n 
+COCO_train2014_000000138670.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000138772.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000139095.jpg,basketball, basketball_bn:00008889n
+COCO_train2014_000000139198.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000139211.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000139214.jpg,cab,cab_bn:00014407n, cab_bn:00014405n, cab_bn:00377982n, cab_bn:00084351v
+COCO_train2014_000000139216.jpg,water, water_bn:00042379n
+COCO_train2014_000000139507.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000139612.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000139639.jpg,home, home_bn:00044994n, home_bn:00115677r, home_bn:00089431v, home_bn:00104252a, home_bn:00044489n, home_bn:00089432v, home_bn:00044503n,
+COCO_train2014_000000139696.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000139757.jpg,palace, palace_bn:00060224n, palace_bn:00016569n
+COCO_train2014_000000139987.jpg,street, street_bn:00074595n
+COCO_train2014_000000140575.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000140648.jpg,suit, suit_bn:00016403n, suit_bn:00075106n, suit_bn:00075103n, suit_bn:00023328n 
+COCO_train2014_000000140733.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000140909.jpg,dock, dock_bn:00027982n, dock_bn:00087132v, dock_bn:00027980n, dock_bn:00027981n, dock_bn:00027984n, dock_bn:00986554n,dock_bn:01126557n ,
+COCO_train2014_000000140990.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000141013.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000141283.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000141566.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000141874.jpg,indian, indian_bn:00104941a, indian_bn:00096965a, indian_bn:00003418n, indian_bn:00003346n
+COCO_train2014_000000142824.jpg,park, park_bn:00021051n, park_bn:00008203n, park_bn:00091440v, park_bn:00015795n, park_bn:00091439v 
+COCO_train2014_000000142977.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000143091.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000143258.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000143490.jpg,fur, fur_bn:00036882n, fur_bn:03542148n
+COCO_train2014_000000143745.jpg,boxer, boxer_bn:00012555n, boxer_bn:00012557n, boxer_bn:00012556n, boxer_bn:00012557n
+COCO_train2014_000000143758.jpg,street, street_bn:00074595n
+COCO_train2014_000000143874.jpg,web, web_bn:00080772n,web_bn:00091047v, web_bn:00080772n,web_bn:00091047v
+COCO_train2014_000000143921.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000144091.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000144620.jpg,park, park_bn:00021051n, park_bn:00008203n, park_bn:00091440v, park_bn:00015795n, park_bn:00091439v 
+COCO_train2014_000000144703.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000144831.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000144994.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000145178.jpg,abaya, abaya_bn:00000228n, abaya_bn:00000228n
+COCO_train2014_000000145411.jpg,street, street_bn:00074595n
+COCO_train2014_000000145748.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000145767.jpg,china, china_bn:00016756n 
+COCO_train2014_000000145989.jpg,freight, freight_bn:00016047n, freight_bn:00036423n
+COCO_train2014_000000146274.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000146420.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000146786.jpg,forklift, forklift_bn:00035905n 
+COCO_train2014_000000146861.jpg,gondola, gondola_bn:00041045n, gondola_bn:00015786n, gondola_bn:00041044n
+COCO_train2014_000000147073.jpg,lifeboat, lifeboat_bn:00016107n, lifeboat_bn:00051078n
+COCO_train2014_000000147091.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000147122.jpg,microwave, microwave_bn:00054804n, microwave_bn:00054805n
+COCO_train2014_000000147314.jpg,wall,wall_bn:00080386n
+COCO_train2014_000000147371.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000147444.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000147839.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000148205.jpg,jeep, jeep_bn:00790331n, jeep_bn:00048091n
+COCO_train2014_000000148267.jpg,washer, washer_bn:00007365n, washer_bn:00080527n
+COCO_train2014_000000148306.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000148366.jpg,palace, palace_bn:00060224n, palace_bn:00016569n
+COCO_train2014_000000148554.jpg,street, street_bn:00074595n
+COCO_train2014_000000148703.jpg,street, street_bn:00074595n
+COCO_train2014_000000148828.jpg,boxer, boxer_bn:00012555n, boxer_bn:00012557n, boxer_bn:00012556n, boxer_bn:00012557n
+COCO_train2014_000000148965.jpg,vacuum,vacuum_bn:00030635n, vacuum_bn:00089464v  
+COCO_train2014_000000149085.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000149086.jpg,oscilloscope, oscilloscope_bn:00016773n
+COCO_train2014_000000149095.jpg,knee, knee_bn:00006140n, knee_bn:00049307n, knee_bn:03667559n
+COCO_train2014_000000149388.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000149739.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000149755.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000149774.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000149833.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000149849.jpg,shopping, shopping_bn:00071230n
+COCO_train2014_000000149961.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000150126.jpg,indian, indian_bn:00104941a, indian_bn:00096965a, indian_bn:00003418n, indian_bn:00003346n
+COCO_train2014_000000150559.jpg,bicycle, bicycle_bn:00010248n, bicycle_bn:00083471v
+COCO_train2014_000000150641.jpg,moving, moving_bn:00106991a, moving_bn:00067060n, moving_bn:00106989a, moving_bn:00106990a
+COCO_train2014_000000150646.jpg,beer, beer_bn:00009589n
+COCO_train2014_000000151211.jpg,minivan, minivan_bn:00055185n
+COCO_train2014_000000151264.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000151499.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000151534.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000151594.jpg,trench, trench_bn:00078163n, trench_bn:00025811n, trench_bn:00078164n
+COCO_train2014_000000151979.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000152286.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000152436.jpg,street, street_bn:00074595n
+COCO_train2014_000000152650.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000152844.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000153159.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000153394.jpg,football, football_bn:00006547n
+COCO_train2014_000000153495.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000153620.jpg,television, television_bn:00076373n
+COCO_train2014_000000153749.jpg,tench, tench_bn:00076495n, tench_bn:02263644n, tench_bn:02263644n
+COCO_train2014_000000154002.jpg,sliding, sliding_bn:00110752a, sliding_bn:00093876v, sliding_bn:00093808v, sliding_bn:00093875v
+COCO_train2014_000000154124.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000154259.jpg,pickup, pickup_bn:00016335n, pickup_bn:00062255n, pickup_bn:00062259n 
+COCO_train2014_000000154289.jpg,street, street_bn:00074595n
+COCO_train2014_000000154373.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000154462.jpg,oxygen, oxygen_bn:00006912n
+COCO_train2014_000000154704.jpg,mashed, mashed_bn:00083893v, mashed_bn:00084324v, mashed_bn:00086115v
+COCO_train2014_000000154801.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000154879.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000154885.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000155108.jpg,wall,wall_bn:00080386n
+COCO_train2014_000000155302.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000155386.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000155470.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000155588.jpg,golfcart, golfcart
+COCO_train2014_000000155645.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000155864.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000156084.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000156461.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000156812.jpg,street, street_bn:00074595n
+COCO_train2014_000000156878.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000157181.jpg,stupa, stupa_bn:02233176n
+COCO_train2014_000000157215.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000157295.jpg,pickup, pickup_bn:00016335n, pickup_bn:00062255n, pickup_bn:00062259n 
+COCO_train2014_000000157301.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000157700.jpg,mouse, mouse_bn:00021487n 
+COCO_train2014_000000157926.jpg,dock, dock_bn:00027982n, dock_bn:00087132v, dock_bn:00027980n, dock_bn:00027981n, dock_bn:00027984n, dock_bn:00986554n,dock_bn:01126557n ,
+COCO_train2014_000000158051.jpg,carton, carton_bn:00016327n, carton_bn:00016326n
+COCO_train2014_000000158105.jpg,shoe, shoe_bn:00071172n, shoe_bn:00012723n
+COCO_train2014_000000158787.jpg,rickshaw, rickshaw_bn:00048221n
+COCO_train2014_000000159175.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000159376.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000159715.jpg,breastplate, breastplate_bn:00001628n, breastplate_bn:03479648n
+COCO_train2014_000000159729.jpg,mailbag, mailbag
+COCO_train2014_000000159929.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000160660.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000160910.jpg,tow, tow_bn:00077758n, tow_bn:00095052v 
+COCO_train2014_000000160931.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000160970.jpg,mountain, mountain_bn:00056068n
+COCO_train2014_000000161228.jpg,lighter, lighter_bn:00008576n, lighter_bn:00045882n, lighter_bn:00090360v
+COCO_train2014_000000161349.jpg,washbasin, washbasin
+COCO_train2014_000000161510.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000161738.jpg,triumphal, triumphal_bn:00112127a, triumphal_bn:00102671a 
+COCO_train2014_000000161823.jpg,dishwasher, dishwasher_bn:00027579n,dishwasher_bn:00027591n
+COCO_train2014_000000162414.jpg,washbasin, washbasin
+COCO_train2014_000000162768.jpg,street, street_bn:00074595n
+COCO_train2014_000000162908.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000163011.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000163054.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000163297.jpg,candle, candle_bn:00015211n, candle_bn:00015197n, candle_bn:00084459v
+COCO_train2014_000000163350.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000163498.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000163723.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000163823.jpg,acoustic, acoustic_bn:00096347a, acoustic_bn:00000969n
+COCO_train2014_000000164044.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000164066.jpg,waffle, waffle_bn:00080311n
+COCO_train2014_000000164205.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000164222.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000164286.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000164772.jpg,toy, toy_bn:00077799nshop
+COCO_train2014_000000164871.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000165071.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000165550.jpg,windsor, windsor_bn:00045017n, windsor_bn:02720975n, windsor_bn:02896559n
+COCO_train2014_000000165820.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000165893.jpg,fireboat, fireboat_bn:00034682n
+COCO_train2014_000000166018.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000166230.jpg,shoe, shoe_bn:00071172n, shoe_bn:00012723n
+COCO_train2014_000000166275.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000166556.jpg,killer, killer_bn:00049103n, killer_bn:00041311n
+COCO_train2014_000000166699.jpg,ping-pong, ping-pong_bn:00062496n 
+COCO_train2014_000000166903.jpg,shopping, shopping_bn:00071230n
+COCO_train2014_000000166997.jpg,mountain, mountain_bn:00056068n
+COCO_train2014_000000167169.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000167348.jpg,tennis, tennis_bn:00050287n
+COCO_train2014_000000167506.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000167746.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000167748.jpg,american, american_bn:00096963a, american_bn:00096964a, american_bn:00003343n 
+COCO_train2014_000000167892.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000168076.jpg,mouse, mouse_bn:00021487n 
+COCO_train2014_000000168194.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000168331.jpg,space, space_bn:00046665n, space_bn:00059768n, space_bn:00053830n 
+COCO_train2014_000000168482.jpg,waffle, waffle_bn:00080311n
+COCO_train2014_000000168758.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000169026.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000169321.jpg,wreck, wreck_bn:00071134n, wreck_bn:00084315v, wreck_bn:00023571n
+COCO_train2014_000000169510.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000169573.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000170193.jpg,pretzel, pretzel_bn:00064289n 
+COCO_train2014_000000170291.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000170432.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000170525.jpg,lab, lab_bn:00049551n
+COCO_train2014_000000170562.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000171499.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000171607.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000171737.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000171997.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000172151.jpg,street, street_bn:00074595n
+COCO_train2014_000000172160.jpg,moving, moving_bn:00106991a, moving_bn:00067060n, moving_bn:00106989a, moving_bn:00106990a
+COCO_train2014_000000173163.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000173365.jpg,printer, printer_bn:00046067n, printer_bn:00064260n, printer_bn:00064447n 
+COCO_train2014_000000173611.jpg,cornet, cornet_bn:00022750n, cornet_bn:03182333n
+COCO_train2014_000000173759.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000173798.jpg,fire, fire_bn:00034625n, fire_bn:00088225v, fire_bn:00082768v 
+COCO_train2014_000000174282.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000174410.jpg,boathouse, boathouse_bn:00011689n
+COCO_train2014_000000174462.jpg,triumphal, triumphal_bn:00112127a, triumphal_bn:00102671a 
+COCO_train2014_000000174627.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000174794.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000174896.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000174909.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000174911.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000174952.jpg,ashcan, ashcan_bn:00006308n
+COCO_train2014_000000175546.jpg,hair, hair_bn:00042526n
+COCO_train2014_000000175608.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000175669.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000175751.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000175912.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000176084.jpg,rifle, rifle_bn:00067785n
+COCO_train2014_000000176440.jpg,tricycle, tricycle_bn:00078268n
+COCO_train2014_000000176442.jpg,moving, moving_bn:00106991a, moving_bn:00067060n, moving_bn:00106989a, moving_bn:00106990a
+COCO_train2014_000000176587.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000176728.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000176765.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000176943.jpg,solar, solar_bn:00110879a, solar_bn:03004188n, solar_bn:00428372n, solar_bn:03131528n, solar_bn:00535322n, solar_bn:02316137n
+COCO_train2014_000000177023.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000177255.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000177922.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000178020.jpg,snorkel, snorkel_bn:00072448n, snorkel_bn:00012972, snorkel_bn:00093985v
+COCO_train2014_000000178337.jpg,tricycle, tricycle_bn:00078268n
+COCO_train2014_000000178491.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000178682.jpg,miniskirt, miniskirt_bn:00055146n
+COCO_train2014_000000178749.jpg,crutch, crutch_bn:00024154n
+COCO_train2014_000000179753.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000179839.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000180119.jpg,cash, cash_bn:00016448n, cash_bn:00016450n, cash_bn:00084618v
+COCO_train2014_000000180220.jpg,freight, freight_bn:00016047n, freight_bn:00036423n
+COCO_train2014_000000180470.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000180613.jpg,canoe, canoe_bn:00015316n, canoe_bn:00084470v
+COCO_train2014_000000181047.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000181064.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000181149.jpg,obelisk, obelisk_bn:00058435n, obelisk_bn:00025008n
+COCO_train2014_000000182782.jpg,space, space_bn:00046665n, space_bn:00059768n, space_bn:00053830n 
+COCO_train2014_000000182860.jpg,monitor, monitor_bn:00090897v, monitor_bn:01384872n,monitor_bn:00021486n
+COCO_train2014_000000182974.jpg,four-poster, four-poster
+COCO_train2014_000000183068.jpg,mountain, mountain_bn:00056068n
+COCO_train2014_000000183151.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000183202.jpg,bernese, bernese_bn:00010046n
+COCO_train2014_000000183212.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000183233.jpg,street, street_bn:00074595n
+COCO_train2014_000000183401.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000183602.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000183771.jpg,cash, cash_bn:00016448n, cash_bn:00016450n, cash_bn:00084618v
+COCO_train2014_000000184123.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000184176.jpg,pencil, pencil_bn:00061334n, pencil_bn:00091528v
+COCO_train2014_000000184204.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000184389.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000184431.jpg,breakwater, breakwater_bn:00012945n
+COCO_train2014_000000184697.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000184835.jpg,lab, lab_bn:00049551n
+COCO_train2014_000000184858.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000184884.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000185291.jpg,ox, ox_bn:00059960n, ox_bn:00059961n
+COCO_train2014_000000185623.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000186109.jpg,rugby, rugby_bn:00068511n
+COCO_train2014_000000186112.jpg,irish, irish_bn:00105419a, irish_bn:00047477n, irish_bn:00047475n
+COCO_train2014_000000186171.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000186338.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000186410.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000186508.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000186883.jpg,toy, toy_bn:00077799nshop
+COCO_train2014_000000186906.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000186944.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000187230.jpg,indian, indian_bn:00104941a, indian_bn:00096965a, indian_bn:00003418n, indian_bn:00003346n
+COCO_train2014_000000187473.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000187675.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000187732.jpg,tow, tow_bn:00077758n, tow_bn:00095052v 
+COCO_train2014_000000187801.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000187823.jpg,coffee, coffee_bn:00020414n
+COCO_train2014_000000187846.jpg,alp, alp_bn:00007246n,alp_bn:00003020n,alp_bn:03229168n
+COCO_train2014_000000187978.jpg,horse, horse_bn:00031345n
+COCO_train2014_000000188037.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000188137.jpg,rugby, rugby_bn:00068511n
+COCO_train2014_000000188329.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000188352.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000188390.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000188511.jpg,washbasin, washbasin
+COCO_train2014_000000188648.jpg,laptop, laptop_bn:00049998n
+COCO_train2014_000000188685.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000189212.jpg,groom, groom_bn:00013075n, groom_bn:00041852n, groom_bn:00089060v, groom_bn:00086166v
+COCO_train2014_000000189280.jpg,library, library_bn:00050968n, library_bn:00050969n
+COCO_train2014_000000189307.jpg,gown, gown_bn:00041209n, gown_bn:00088994v
+COCO_train2014_000000189459.jpg,ox, ox_bn:00059960n, ox_bn:00059961n
+COCO_train2014_000000189469.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000189583.jpg,shower, shower_bn:00071324n, shower_bn:00071326n, shower_bn:00093689v
+COCO_train2014_000000190086.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000190087.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000190117.jpg,tow, tow_bn:00077758n, tow_bn:00095052v 
+COCO_train2014_000000190272.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000190334.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000190513.jpg,disk, disk_bn:00027454n, disk_bn:00027457n, disk_bn:00027456n
+COCO_train2014_000000190732.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000190861.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000190981.jpg,street, street_bn:00074595n
+COCO_train2014_000000191042.jpg,freight, freight_bn:00016047n, freight_bn:00036423n
+COCO_train2014_000000191093.jpg,croquet, croquet_bn:00023939n
+COCO_train2014_000000191205.jpg,pie, pie_bn:00062194n, pie_bn:00062294n , pie_bn:00062293n
+COCO_train2014_000000191340.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000191353.jpg,vase, vase_bn:00079628n, vase_bn:03722510n
+COCO_train2014_000000191403.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000191918.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000191931.jpg,toy, toy_bn:00077799nshop
+COCO_train2014_000000192273.jpg,pembroke, pembroke_bn:01851981n,pembroke_bn:00726472n
+COCO_train2014_000000192585.jpg,abaya, abaya_bn:00000228n, abaya_bn:00000228n
+COCO_train2014_000000192759.jpg,quilt, quilt_bn:00020917n
+COCO_train2014_000000192852.jpg,rickshaw, rickshaw_bn:00048221n
+COCO_train2014_000000192862.jpg,lakeland, lakeland_bn:00049716n, lakeland_bn:00217603n
+COCO_train2014_000000192958.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000193077.jpg,street, street_bn:00074595n
+COCO_train2014_000000193246.jpg,monitor, monitor_bn:00090897v, monitor_bn:01384872n,monitor_bn:00021486n
+COCO_train2014_000000193287.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000193579.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000193594.jpg,wok, wok_bn:00081467n
+COCO_train2014_000000193623.jpg,television, television_bn:00076373n
+COCO_train2014_000000193677.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000193819.jpg,great, great_bn:00103779a, great_bn:00098352a, great_bn:00041551n, great_bn:00098021a, great_bn:00103780a, great_bn:00103781a 
+COCO_train2014_000000194105.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000194247.jpg,laptop, laptop_bn:00049998n
+COCO_train2014_000000194322.jpg,binoculars, binoculars_bn:00010508n
+COCO_train2014_000000194419.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000194529.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000194574.jpg,street, street_bn:00074595n
+COCO_train2014_000000194620.jpg,microwave, microwave_bn:00054804n, microwave_bn:00054805n
+COCO_train2014_000000194677.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000194700.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000194742.jpg,toilet, toilet_bn:00015106n
+COCO_train2014_000000194800.jpg,gondola, gondola_bn:00041045n, gondola_bn:00015786n, gondola_bn:00041044n
+COCO_train2014_000000195266.jpg,street, street_bn:00074595n
+COCO_train2014_000000195294.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000195317.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000195332.jpg,modem, modem_bn:00055454n, modem_bn:00208503n
+COCO_train2014_000000195352.jpg,library, library_bn:00050968n, library_bn:00050969n
+COCO_train2014_000000195425.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000195449.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000195456.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000195529.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000195595.jpg,street, street_bn:00074595n
+COCO_train2014_000000195644.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000195699.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000195848.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000196418.jpg,pole, pole_bn:00063294n, pole_bn:00061508n,pole_bn:00017016n, pole_bn:03695665n
+COCO_train2014_000000196524.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000196663.jpg,packet, packet_bn:00060117n, packet_bn:00052818n, packet_bn:00013882n 
+COCO_train2014_000000196675.jpg,horse, horse_bn:00031345n
+COCO_train2014_000000196748.jpg,whistle, whistle_bn:00081044n
+COCO_train2014_000000196804.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000197071.jpg,speedboat,speedboat_bn:00073268n
+COCO_train2014_000000197384.jpg,trailer, trailer_bn:00077910n, trailer_bn:00064299n, trailer_bn:00261702n
+COCO_train2014_000000197950.jpg,crutch, crutch_bn:00024154n
+COCO_train2014_000000197962.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000198042.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000198064.jpg,chest, chest_bn:00018207n, chest_bn:00020438n, chest_bn:00018208n
+COCO_train2014_000000198249.jpg,dock, dock_bn:00027982n, dock_bn:00087132v, dock_bn:00027980n, dock_bn:00027981n, dock_bn:00027984n, dock_bn:00986554n,dock_bn:01126557n ,
+COCO_train2014_000000198375.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000198404.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000198785.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000198936.jpg,cardigan, cardigan_bn:00015958n, cardigan_bn:03459064n
+COCO_train2014_000000198974.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000199063.jpg,street, street_bn:00074595n
+COCO_train2014_000000199196.jpg,street, street_bn:00074595n
+COCO_train2014_000000199234.jpg,plunger, plunger_bn:00062630n, plunger_bn:00063099n 
+COCO_train2014_000000199956.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000199992.jpg,butternut, butternut_bn:00014293n
+COCO_train2014_000000200213.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000200611.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000200619.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000200814.jpg,carton, carton_bn:00016327n, carton_bn:00016326n
+COCO_train2014_000000200830.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000201114.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000201252.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000201409.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000201501.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000201835.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000202066.jpg,vacuum,vacuum_bn:00030635n, vacuum_bn:00089464v  
+COCO_train2014_000000202410.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000202465.jpg,street, street_bn:00074595n
+COCO_train2014_000000202767.jpg,groom, groom_bn:00013075n, groom_bn:00041852n, groom_bn:00089060v, groom_bn:00086166v
+COCO_train2014_000000202829.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000203054.jpg,face, face_bn:00032600n, face_bn:00085595v, face_bn:00016414n, face_bn:03361486n,face_bn:00085597v 
+COCO_train2014_000000203137.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000203248.jpg,laptop, laptop_bn:00049998n
+COCO_train2014_000000203577.jpg,washer, washer_bn:00007365n, washer_bn:00080527n
+COCO_train2014_000000204039.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000204537.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000204714.jpg,entertainment, entertainment_bn:00003693n
+COCO_train2014_000000204889.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000204999.jpg,ashcan, ashcan_bn:00006308n
+COCO_train2014_000000205159.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000205477.jpg,microwave, microwave_bn:00054804n, microwave_bn:00054805n
+COCO_train2014_000000205520.jpg,street, street_bn:00074595n
+COCO_train2014_000000205525.jpg,washbasin, washbasin
+COCO_train2014_000000205650.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000205689.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000205756.jpg,hair, hair_bn:00042526n
+COCO_train2014_000000206013.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000206083.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000206109.jpg,junco, junco_bn:00048585n
+COCO_train2014_000000206170.jpg,radiator, radiator_bn:00065883n
+COCO_train2014_000000206937.jpg,ice, ice_bn:00045705n 
+COCO_train2014_000000207048.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000207542.jpg,bloodhound, bloodhound_bn:00011398n, bloodhound_bn:03391406n
+COCO_train2014_000000207595.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000207935.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000208095.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000208319.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000208513.jpg,brassiere, brassiere_bn:00008300n
+COCO_train2014_000000208714.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000208752.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000208786.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000208931.jpg,book, book_bn:00010217n, book_bn:00012059n, book_bn:00002370n, book_bn:00056458n 
+COCO_train2014_000000208957.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000208994.jpg,siamese, siamese_bn:00017191n, siamese_bn:00071399n, siamese_bn:00110602a, siamese_bn:00110601a 
+COCO_train2014_000000209178.jpg,jigsaw, jigsaw_bn:01901942n, jigsaw_bn:00048213n
+COCO_train2014_000000209639.jpg,suit, suit_bn:00016403n, suit_bn:00075106n, suit_bn:00075103n, suit_bn:00023328n 
+COCO_train2014_000000209822.jpg,rugby, rugby_bn:00068511n
+COCO_train2014_000000210048.jpg,tray, tray_bn:02037502n, tray_bn:00078102n
+COCO_train2014_000000210267.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000210389.jpg,bubble, bubble_bn:00013536n, bubble_bn:00605974n, bubble_bn:03749470n, bubble_bn:00082975v 
+COCO_train2014_000000210703.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000210751.jpg,lotion, lotion_bn:00052068n
+COCO_train2014_000000210806.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000211116.jpg,trailer, trailer_bn:00077910n, trailer_bn:00064299n, trailer_bn:00261702n
+COCO_train2014_000000211185.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000211221.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000211283.jpg,football, football_bn:00006547n
+COCO_train2014_000000211632.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000211811.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000211969.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000212271.jpg,terrapin, terrapin_bn:00076614n
+COCO_train2014_000000212479.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000212859.jpg,prison, prison_bn:00064468n, prison_bn:03724700n
+COCO_train2014_000000212974.jpg,eggnog, eggnog_bn:00029930n
+COCO_train2014_000000213003.jpg,laptop, laptop_bn:00049998n
+COCO_train2014_000000213034.jpg,crutch, crutch_bn:00024154n
+COCO_train2014_000000213095.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000213124.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000213602.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000213936.jpg,bookcase, bookcase_bn:00012121n, bookcase_bn:00012140n
+COCO_train2014_000000213988.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000214413.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000214478.jpg,horse, horse_bn:00031345n
+COCO_train2014_000000214526.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000214641.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000214729.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000214766.jpg,stove, stove_bn:00022423n, stove_bn:00074479n
+COCO_train2014_000000214892.jpg,bannister, bannister_bn:00008247n, bannister_bn:00008429n 
+COCO_train2014_000000215380.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000215564.jpg,cowboy, cowboy_bn:00016814n 
+COCO_train2014_000000215592.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000215907.jpg,studio, studio_bn:00074787n, studio_bn:00074788n, studio_bn:00074786n
+COCO_train2014_000000216091.jpg,medicine, medicine_bn:00054126n
+COCO_train2014_000000216191.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000216507.jpg,entertainment, entertainment_bn:00003693n
+COCO_train2014_000000216772.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000216822.jpg,jean, jean_bn:00026236n, jean_bn:04894329n
+COCO_train2014_000000216921.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000216985.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000217040.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000217938.jpg,oboe, oboe_bn:00043159n, oboe_bn:03880233n
+COCO_train2014_000000217974.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000218147.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000218307.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000218379.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000218558.jpg,american, american_bn:00096963a, american_bn:00096964a, american_bn:00003343n 
+COCO_train2014_000000218628.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000218648.jpg,snowplow, snowplow_bn:00072480n
+COCO_train2014_000000218762.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000218788.jpg,coffee, coffee_bn:00020414n
+COCO_train2014_000000218917.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000219114.jpg,forklift, forklift_bn:00035905n 
+COCO_train2014_000000219248.jpg,horse, horse_bn:00031345n
+COCO_train2014_000000219274.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000219294.jpg,rugby, rugby_bn:00068511n
+COCO_train2014_000000219357.jpg,fire, fire_bn:00034625n, fire_bn:00088225v, fire_bn:00082768v 
+COCO_train2014_000000219462.jpg,container, container_bn:00022129n, container_bn:03305154n, container_bn:02283820n
+COCO_train2014_000000219527.jpg,jigsaw, jigsaw_bn:01901942n, jigsaw_bn:00048213n
+COCO_train2014_000000219735.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000219752.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000219784.jpg,dungeness, dungeness_bn:03489975n, dungeness_bn:02591338n
+COCO_train2014_000000220148.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000220372.jpg,library, library_bn:00050968n, library_bn:00050969n
+COCO_train2014_000000220527.jpg,street, street_bn:00074595n
+COCO_train2014_000000220666.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000220770.jpg,great, great_bn:00103779a, great_bn:00098352a, great_bn:00041551n, great_bn:00098021a, great_bn:00103780a, great_bn:00103781a 
+COCO_train2014_000000220912.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000221441.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000221470.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000221614.jpg,limousine, limousine_bn:00051265n
+COCO_train2014_000000221633.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000221654.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000221996.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000222097.jpg,web, web_bn:00080772n,web_bn:00091047v, web_bn:00080772n,web_bn:00091047v
+COCO_train2014_000000222240.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000222369.jpg,chain-link, chain-link
+COCO_train2014_000000222376.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000222395.jpg,african, african_bn:00096629a, african_bn:00001817n
+COCO_train2014_000000222441.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000222572.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000222961.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000223139.jpg,scuba, scuba_bn:00005201n
+COCO_train2014_000000223270.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000223373.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000223462.jpg,laptop, laptop_bn:00049998n
+COCO_train2014_000000223684.jpg,lifeboat, lifeboat_bn:00016107n, lifeboat_bn:00051078n
+COCO_train2014_000000224034.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000224128.jpg,shih-tzu, shih-tzu
+COCO_train2014_000000224483.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000224667.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000224753.jpg,pickup, pickup_bn:00016335n, pickup_bn:00062255n, pickup_bn:00062259n 
+COCO_train2014_000000225174.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000225307.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000225383.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000225402.jpg,potter, potter_bn:00017270n, potter_bn:00017269n
+COCO_train2014_000000225508.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000225539.jpg,candle, candle_bn:00015211n, candle_bn:00015197n, candle_bn:00084459v
+COCO_train2014_000000225641.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000225925.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000226080.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000226136.jpg,trailer, trailer_bn:00077910n, trailer_bn:00064299n, trailer_bn:00261702n
+COCO_train2014_000000226580.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000226679.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000226976.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000227185.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000227307.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000227441.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000227453.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000227675.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000227732.jpg,web, web_bn:00080772n,web_bn:00091047v, web_bn:00080772n,web_bn:00091047v
+COCO_train2014_000000227915.jpg,wardrobe, wardrobe_bn:00019955n, wardrobe_bn:03576222n, wardrobe_bn:00080479n, wardrobe_bn:00080480n 
+COCO_train2014_000000228000.jpg,studio, studio_bn:00074787n, studio_bn:00074788n, studio_bn:00074786n
+COCO_train2014_000000228320.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000228463.jpg,plunger, plunger_bn:00062630n, plunger_bn:00063099n 
+COCO_train2014_000000228671.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000229233.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000229301.jpg,moving, moving_bn:00106991a, moving_bn:00067060n, moving_bn:00106989a, moving_bn:00106990a
+COCO_train2014_000000229356.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000229378.jpg,quilt, quilt_bn:00020917n
+COCO_train2014_000000230039.jpg,marimba, marimba_bn:00053421n
+COCO_train2014_000000230168.jpg,microwave, microwave_bn:00054804n, microwave_bn:00054805n
+COCO_train2014_000000230236.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000230572.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000230712.jpg,oxcart, oxcart_bn:00059975n
+COCO_train2014_000000230741.jpg,steel, steel_bn:00074123n, steel_bn:00011081n, steel_bn:03190443n, steel_bn:03192727n 
+COCO_train2014_000000230996.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000231126.jpg,shield, shield_bn:00013602n, shield_bn:00093378v, shield_bn:00015831n, shield_bn:00031580n
+COCO_train2014_000000231315.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000231320.jpg,wall,wall_bn:00080386n
+COCO_train2014_000000231373.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000231631.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000231840.jpg,street, street_bn:00074595n
+COCO_train2014_000000232231.jpg,gar, gar_bn:00010425n, gar_bn:03356642n, gar_bn:00971472n
+COCO_train2014_000000232322.jpg,polaroid, polaroid_bn:00825661n
+COCO_train2014_000000232500.jpg,projectile, projectile_bn:00055323n, projectile_bn:00109090a
+COCO_train2014_000000232755.jpg,jeep, jeep_bn:00790331n, jeep_bn:00048091n
+COCO_train2014_000000233137.jpg,airship, airship_bn:00002310n,airship_bn:01276218n
+COCO_train2014_000000233617.jpg,fire, fire_bn:00034625n, fire_bn:00088225v, fire_bn:00082768v 
+COCO_train2014_000000233690.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000233873.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000233925.jpg,obelisk, obelisk_bn:00058435n, obelisk_bn:00025008n
+COCO_train2014_000000234046.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000234083.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000234516.jpg,moving, moving_bn:00106991a, moving_bn:00067060n, moving_bn:00106989a, moving_bn:00106990a
+COCO_train2014_000000234550.jpg,ambulance, ambulance_bn:00003295n, ambulance_bn:00591399n
+COCO_train2014_000000234665.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000234743.jpg,mosque, mosque_bn:00055976n
+COCO_train2014_000000234769.jpg,cassette, cassette_bn:00016496n, cassette_bn:01627984n
+COCO_train2014_000000234786.jpg,stopwatch, stopwatch_bn:00074440n
+COCO_train2014_000000234956.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000234978.jpg,alp, alp_bn:00007246n,alp_bn:00003020n,alp_bn:03229168n
+COCO_train2014_000000235043.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000235069.jpg,recreational, recreational_bn:00109549a, recreational_bn:00027865n, recreational_bn:00096919a
+COCO_train2014_000000235081.jpg,street, street_bn:00074595n
+COCO_train2014_000000235177.jpg,lifeboat, lifeboat_bn:00016107n, lifeboat_bn:00051078n
+COCO_train2014_000000235430.jpg,aircraft, aircraft_bn:00002275n 
+COCO_train2014_000000235468.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000235741.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000235760.jpg,whistle, whistle_bn:00081044n
+COCO_train2014_000000236048.jpg,monastery, monastery_bn:00049756n
+COCO_train2014_000000236332.jpg,street, street_bn:00074595n
+COCO_train2014_000000236386.jpg,sunscreen, sunscreen_bn:00075177n
+COCO_train2014_000000236650.jpg,volleyball, volleyball_bn:00080220n
+COCO_train2014_000000236760.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000236990.jpg,aircraft, aircraft_bn:00002275n 
+COCO_train2014_000000237210.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000237271.jpg,dock, dock_bn:00027982n, dock_bn:00087132v, dock_bn:00027980n, dock_bn:00027981n, dock_bn:00027984n, dock_bn:00986554n,dock_bn:01126557n ,
+COCO_train2014_000000237327.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000237701.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000238001.jpg,accordion, accordion_bn:00000732n
+COCO_train2014_000000238178.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000238231.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000238448.jpg,stopwatch, stopwatch_bn:00074440n
+COCO_train2014_000000238455.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000238535.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000238618.jpg,ox, ox_bn:00059960n, ox_bn:00059961n
+COCO_train2014_000000238881.jpg,dining, dining_bn:00027193n, dining_bn:00086844v, dining_bn:00086843v 
+COCO_train2014_000000239000.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000239400.jpg,speedboat,speedboat_bn:00073268n
+COCO_train2014_000000239502.jpg,suspension, suspension_bn:00075454n, suspension_bn:03244337n, suspension_bn:00075453n,suspension_bn:00075456n, suspension_bn:03139865n
+COCO_train2014_000000239518.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000239520.jpg,chime, chime_bn:03405281n, chime_bn:00084895v
+COCO_train2014_000000239611.jpg,trailer, trailer_bn:00077910n, trailer_bn:00064299n, trailer_bn:00261702n
+COCO_train2014_000000239803.jpg,jean, jean_bn:00026236n, jean_bn:04894329n
+COCO_train2014_000000240022.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000240062.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000240069.jpg,pot, pot_bn:00047831n, pot_bn:00015106n, pot_bn:00091885v
+COCO_train2014_000000240344.jpg,cowboy, cowboy_bn:00016814n 
+COCO_train2014_000000240632.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000240709.jpg,china, china_bn:00016756n 
+COCO_train2014_000000240847.jpg,crane, crane_bn:00023532n, crane_bn:00023533n, crane_bn:00085965v
+COCO_train2014_000000240889.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000241388.jpg,street, street_bn:00074595n
+COCO_train2014_000000241408.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000241764.jpg,bullet, bullet_bn:00013807n, bullet_bn:00013809n, bullet_bn:03415182n
+COCO_train2014_000000241975.jpg,pool, pool_bn:00063508n, pool_bn:00047831n, pool_bn:02073223n, pool_bn:00022016n, pool_bn:00091839v
+COCO_train2014_000000242276.jpg,pole, pole_bn:00063294n, pole_bn:00061508n,pole_bn:00017016n, pole_bn:03695665n
+COCO_train2014_000000242446.jpg,drum, drum_bn:00028891n, drum_bn:00083252v, drum_bn:00087400v, drum_bn:00083767v
+COCO_train2014_000000242457.jpg,bicycle, bicycle_bn:00010248n, bicycle_bn:00083471v
+COCO_train2014_000000242625.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000242721.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000243044.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000243120.jpg,hen, hen_bn:00043685n
+COCO_train2014_000000243187.jpg,zebra, zebra_bn:00082013n
+COCO_train2014_000000243947.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000244074.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000244596.jpg,cleaver, cleaver_bn:00018735n, cleaver_bn:03499325n
+COCO_train2014_000000244835.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000245354.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000245631.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000245638.jpg,school, school_bn:00079152n
+COCO_train2014_000000245806.jpg,lawn,lawn_bn:00050284n, lawn_bn:03450615n
+COCO_train2014_000000245823.jpg,window, window_bn:00081285n, window_bn:00081292n,window_bn:00081289n, window_bn:01783319n
+COCO_train2014_000000246095.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000246146.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000246409.jpg,toaster, toaster_bn:00077437n, toaster_bn:00077436n 
+COCO_train2014_000000246656.jpg,torch, torch_bn:00077657n, torch_bn:00095033v, torch_bn:00035073n, torch_bn:00000186n
+COCO_train2014_000000246718.jpg,cinema, cinema_bn:00019129n
+COCO_train2014_000000246920.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000246927.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000246932.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000246990.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000247114.jpg,ice, ice_bn:00045705n 
+COCO_train2014_000000247217.jpg,gas, gas_bn:00037382n, gas_bn:00037385n
+COCO_train2014_000000247700.jpg,street, street_bn:00074595n
+COCO_train2014_000000247921.jpg,oscilloscope, oscilloscope_bn:00016773n
+COCO_train2014_000000248203.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000248221.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000248464.jpg,patio, patio_bn:00061019n
+COCO_train2014_000000248610.jpg,refrigerator, refrigerator_bn:00045744n
+COCO_train2014_000000248779.jpg,crane, crane_bn:00023532n, crane_bn:00023533n, crane_bn:00085965v
+COCO_train2014_000000248862.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000249441.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000249804.jpg,tow, tow_bn:00077758n, tow_bn:00095052v 
+COCO_train2014_000000249869.jpg,jackfruit, jackfruit_bn:00006192n
+COCO_train2014_000000250026.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000250194.jpg,street, street_bn:00074595n
+COCO_train2014_000000250226.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000250737.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000250834.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000250877.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000250991.jpg,unicycle,unicycle_bn:00055705n
+COCO_train2014_000000251230.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000251283.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000251315.jpg,home, home_bn:00044994n, home_bn:00115677r, home_bn:00089431v, home_bn:00104252a, home_bn:00044489n, home_bn:00089432v, home_bn:00044503n,
+COCO_train2014_000000251804.jpg,paintbrush, paintbrush_bn:00060193n
+COCO_train2014_000000251932.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000252022.jpg,street, street_bn:00074595n
+COCO_train2014_000000252160.jpg,sandbar, sandbar_bn:00069127n
+COCO_train2014_000000252470.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000252730.jpg,ruffed, ruffed
+COCO_train2014_000000252915.jpg,rule, rule_bn:00064192n, rule_bn:00068525n, rule_bn:00086420v, rule_bn:00088992v 
+COCO_train2014_000000253031.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000253098.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000253166.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000253323.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000253332.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000253417.jpg,pickup, pickup_bn:00016335n, pickup_bn:00062255n, pickup_bn:00062259n 
+COCO_train2014_000000253419.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000253447.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000253556.jpg,dock, dock_bn:00027982n, dock_bn:00087132v, dock_bn:00027980n, dock_bn:00027981n, dock_bn:00027984n, dock_bn:00986554n,dock_bn:01126557n ,
+COCO_train2014_000000253686.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000253712.jpg,street, street_bn:00074595n
+COCO_train2014_000000253873.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000253906.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000253959.jpg,quill, quill_bn:00065709n
+COCO_train2014_000000254011.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000254296.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000254658.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000254678.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000254726.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000254822.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000255013.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000255186.jpg,soccer, soccer_bn:00006547n 
+COCO_train2014_000000255306.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000255459.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000255494.jpg,cowboy, cowboy_bn:00016814n 
+COCO_train2014_000000255634.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000255741.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000255898.jpg,meat, meat_bn:00054026n, meat_bn:00017124n
+COCO_train2014_000000255910.jpg,rugby, rugby_bn:00068511n
+COCO_train2014_000000255971.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000256189.jpg,microwave, microwave_bn:00054804n, microwave_bn:00054805n
+COCO_train2014_000000256215.jpg,trimaran, trimaran_bn:00078294n
+COCO_train2014_000000256380.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000256386.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000256549.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000256607.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000256755.jpg,wine, wine_bn:00080022n, wine_bn:03088927n
+COCO_train2014_000000256808.jpg,llama, llama_bn:00051660n
+COCO_train2014_000000256869.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000257162.jpg,cab,cab_bn:00014407n, cab_bn:00014405n, cab_bn:00377982n, cab_bn:00084351v
+COCO_train2014_000000257243.jpg,police, police_bn:00022026n, police_bn:00091483v
+COCO_train2014_000000257588.jpg,carton, carton_bn:00016327n, carton_bn:00016326n
+COCO_train2014_000000257663.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000257666.jpg,wing,wing_bn:02713716n,wing_bn:00081338n
+COCO_train2014_000000257807.jpg,park, park_bn:00021051n, park_bn:00008203n, park_bn:00091440v, park_bn:00015795n, park_bn:00091439v 
+COCO_train2014_000000258073.jpg,lemon, lemon_bn:00019309n, lemon_bn:00624869n 
+COCO_train2014_000000258196.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000258205.jpg,speedboat,speedboat_bn:00073268n
+COCO_train2014_000000258336.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000258517.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000258635.jpg,canoe, canoe_bn:00015316n, canoe_bn:00084470v
+COCO_train2014_000000258676.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000258794.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000258856.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000258869.jpg,killer, killer_bn:00049103n, killer_bn:00041311n
+COCO_train2014_000000258894.jpg,coffee, coffee_bn:00020414n
+COCO_train2014_000000259030.jpg,bison, bison_bn:00003357n, bison_bn:03601653n, bison_bn:00010720n 
+COCO_train2014_000000259137.jpg,wok, wok_bn:00081467n
+COCO_train2014_000000259434.jpg,shoe, shoe_bn:00071172n, shoe_bn:00012723n
+COCO_train2014_000000259439.jpg,cinema, cinema_bn:00019129n
+COCO_train2014_000000259745.jpg,notebook, notebook_bn:00049998n, notebook_bn:00058152n
+COCO_train2014_000000259809.jpg,wok, wok_bn:00081467n
+COCO_train2014_000000260110.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000260415.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000260604.jpg,toy, toy_bn:00077799n
+COCO_train2014_000000260826.jpg,street, street_bn:00074595n
+COCO_train2014_000000260901.jpg,triumphal, triumphal_bn:00112127a, triumphal_bn:00102671a 
+COCO_train2014_000000261569.jpg,prayer, prayer_bn:00059529n
+COCO_train2014_000000262172.jpg,sliding, sliding_bn:00110752a, sliding_bn:00093876v, sliding_bn:00093808v, sliding_bn:00093875v
+COCO_train2014_000000262239.jpg,shoe, shoe_bn:00071172n, shoe_bn:00012723n
+COCO_train2014_000000262662.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000262991.jpg,laptop, laptop_bn:00049998n
+COCO_train2014_000000263036.jpg,viaduct, viaduct_bn:00079896n
+COCO_train2014_000000263762.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000264233.jpg,carton, carton_bn:00016327n, carton_bn:00016326n
+COCO_train2014_000000264340.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000264365.jpg,coffee, coffee_bn:00020414n
+COCO_train2014_000000264473.jpg,bulletproof, bulletproof_bn:00099008a, bulletproof_bn:00099007a
+COCO_train2014_000000264797.jpg,tow, tow_bn:00077758n, tow_bn:00095052v 
+COCO_train2014_000000265139.jpg,tennis, tennis_bn:00050287n
+COCO_train2014_000000265173.jpg,gas, gas_bn:00037382n, gas_bn:00037385n
+COCO_train2014_000000265187.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000265292.jpg,plate, plate_bn:00044489n, plate_bn:00050990n, plate_bn:00062082n, plate_bn:00091705v, plate_bn:00062883n, plate_bn:00060479n 
+COCO_train2014_000000265625.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000265645.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000265982.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000266418.jpg,canoe, canoe_bn:00015316n, canoe_bn:00084470v
+COCO_train2014_000000266550.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000266557.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000266569.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000266910.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000267266.jpg,diaper, diaper_bn:00026869n, diaper_bn:03501945n
+COCO_train2014_000000267324.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000267516.jpg,chesapeake, chesapeake_bn:03806586n, chesapeake_bn:03703273n
+COCO_train2014_000000267680.jpg,street, street_bn:00074595n
+COCO_train2014_000000267823.jpg,street, street_bn:00074595n
+COCO_train2014_000000267825.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000267834.jpg,street, street_bn:00074595n
+COCO_train2014_000000267885.jpg,indian, indian_bn:00104941a, indian_bn:00096965a, indian_bn:00003418n, indian_bn:00003346n
+COCO_train2014_000000268146.jpg,amphibian, amphibian_bn:00003620n, amphibian_bn:00096991a, amphibian_bn:00003619n, amphibian_bn:00003618n
+COCO_train2014_000000268341.jpg,lakeside, lakeside
+COCO_train2014_000000268472.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000268523.jpg,dock, dock_bn:00027982n, dock_bn:00087132v, dock_bn:00027980n, dock_bn:00027981n, dock_bn:00027984n, dock_bn:00986554n,dock_bn:01126557n ,
+COCO_train2014_000000268718.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000268899.jpg,crossword, crossword_bn:00024021n
+COCO_train2014_000000268900.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000269680.jpg,garbage, garbage_bn:00080543n, garbage_bn:03131667n
+COCO_train2014_000000270248.jpg,baseball, baseball_bn:00008804n
+COCO_train2014_000000270290.jpg,meat, meat_bn:00054026n, meat_bn:00017124n
+COCO_train2014_000000270512.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000270651.jpg,broccoli, broccoli_bn:00012820n, broccoli_bn:03084719n
+COCO_train2014_000000270659.jpg,ski, ski_bn:00071932n,ski_bn:00093803v
+COCO_train2014_000000270696.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000270740.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000270784.jpg,steam, steam_bn:00080637n
+COCO_train2014_000000270959.jpg,cab,cab_bn:00014407n, cab_bn:00014405n, cab_bn:00377982n, cab_bn:00084351v
+COCO_train2014_000000271006.jpg,mobile, mobile_bn:00017029n, mobile_bn:00103138a, mobile_bn:00106818a
+COCO_train2014_000000271038.jpg,palace, palace_bn:00060224n, palace_bn:00016569n
+COCO_train2014_000000271136.jpg,saluki, saluki_bn:00037557n
+COCO_train2014_000000271363.jpg,paddle, paddle_bn:00011681n
+COCO_train2014_000000271638.jpg,patio, patio_bn:00061019n
+COCO_train2014_000000271996.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000272095.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000272173.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000272176.jpg,carbonara, carbonara_bn:00015878n
+COCO_train2014_000000272351.jpg,washbasin, washbasin
+COCO_train2014_000000272510.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000272758.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000272901.jpg,rickshaw, rickshaw_bn:00048221n
+COCO_train2014_000000273053.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000273205.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000273253.jpg,jersey, jersey_bn:00037322n, jersey_bn:00047615n
+COCO_train2014_000000273358.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000273379.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000273716.jpg,restaurant, restaurant_bn:00029545n
+COCO_train2014_000000274160.jpg,mountain, mountain_bn:00056068n
+COCO_train2014_000000274386.jpg,seashore, seashore_bn:00020164n
+COCO_train2014_000000274547.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000274640.jpg,canoe, canoe_bn:00015316n, canoe_bn:00084470v
+COCO_train2014_000000274916.jpg,dog, dog_bn:00015267n
+COCO_train2014_000000275057.jpg,shield, shield_bn:00013602n, shield_bn:00093378v, shield_bn:00015831n, shield_bn:00031580n
+COCO_train2014_000000275211.jpg,plastic, plastic_bn:00062856n, plastic_bn:00102934a, plastic_bn:00103230a, plastic_bn:00108670a 
+COCO_train2014_000000275245.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000275263.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000275292.jpg,boathouse, boathouse_bn:00011689n
+COCO_train2014_000000275710.jpg,water, water_bn:00042379n
+COCO_train2014_000000276077.jpg,dishwasher, dishwasher_bn:00027579n,dishwasher_bn:00027591n
+COCO_train2014_000000276168.jpg,warplane, warplane_bn:00054976n
+COCO_train2014_000000276247.jpg,cleaver, cleaver_bn:00018735n, cleaver_bn:03499325n
+COCO_train2014_000000276766.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000276801.jpg,cloak, cloak_bn:00019880n, cloak_bn:00085144v, cloak_bn:00572285n
+COCO_train2014_000000276849.jpg,throne, throne_bn:00077086n, throne_bn:00015106n
+COCO_train2014_000000276894.jpg,limousine, limousine_bn:00051265n
+COCO_train2014_000000277088.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000277165.jpg,toaster, toaster_bn:00077437n, toaster_bn:00077436n 
+COCO_train2014_000000277202.jpg,miniskirt, miniskirt_bn:00055146n
+COCO_train2014_000000277331.jpg,trailer, trailer_bn:00077910n, trailer_bn:00064299n, trailer_bn:00261702n
+COCO_train2014_000000277389.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000277461.jpg,trailer, trailer_bn:00077910n, trailer_bn:00064299n, trailer_bn:00261702n
+COCO_train2014_000000277491.jpg,volleyball, volleyball_bn:00080220n
+COCO_train2014_000000277550.jpg,analog, analog_bn:01156161n
+COCO_train2014_000000277722.jpg,birdhouse, birdhouse_bn:00010651n
+COCO_train2014_000000277790.jpg,forklift, forklift_bn:00035905n 
+COCO_train2014_000000278101.jpg,rugby, rugby_bn:00068511n
+COCO_train2014_000000278177.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000278214.jpg,jersey, jersey_bn:00037322n, jersey_bn:00047615n
+COCO_train2014_000000278303.jpg,west, west_bn:00113808a, west_bn:00080894n, west_bn:03443906n
+COCO_train2014_000000278744.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000278907.jpg,band, band_bn:00008280n, band_bn:00008279n, band_bn:00008287n, band_bn:00008284n
+COCO_train2014_000000278921.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000279324.jpg,saluki, saluki_bn:00037557n
+COCO_train2014_000000279543.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000280224.jpg,school, school_bn:00079152n
+COCO_train2014_000000280643.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000280968.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000281302.jpg,crash,crash_bn:03473468n, crash_bn:00858975n, crash_bn:00085984v, crash_bn:00020601n, crash_bn:00023573n
+COCO_train2014_000000281997.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000282257.jpg,croquet, croquet_bn:00023939n
+COCO_train2014_000000282444.jpg,bow, bow_bn:01260194n, bow_bn:00012466n, bow_bn:00012468n, bow_bn:00083839v, bow_bn:00012469n, bow_bn:00012470n, bow_bn:00083840v, bow_bn:03372535n
+COCO_train2014_000000282552.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000282670.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000282943.jpg,teddy, teddy_bn:00076355n,teddy_bn:00018128n
+COCO_train2014_000000282949.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000283240.jpg,bikini, bikini_bn:00010363n, bikini_bn:00010362n
+COCO_train2014_000000283476.jpg,guacamole, guacamole_bn:00042011n 
+COCO_train2014_000000283485.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000283600.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000283835.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000283885.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000283970.jpg,ice, ice_bn:00045705n 
+COCO_train2014_000000284008.jpg,perfume, perfume_bn:00031629n
+COCO_train2014_000000284340.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000284362.jpg,lifeboat, lifeboat_bn:00016107n, lifeboat_bn:00051078n
+COCO_train2014_000000284468.jpg,windsor, windsor_bn:00045017n, windsor_bn:02720975n, windsor_bn:02896559n
+COCO_train2014_000000284649.jpg,gyromitra, gyromitra
+COCO_train2014_000000285002.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000285149.jpg,motor, motor_bn:00030850n 
+COCO_train2014_000000285220.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000285253.jpg,ipod, ipod_bn:03789969n
+COCO_train2014_000000285740.jpg,wall,wall_bn:00080386n
+COCO_train2014_000000285891.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000285911.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000285913.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000286368.jpg,desktop,desktop_bn:00026560n
+COCO_train2014_000000286645.jpg,parachute, parachute_bn:00019032n, parachute_bn:00084970v
+COCO_train2014_000000287038.jpg,speedboat,speedboat_bn:00073268n
+COCO_train2014_000000287299.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000287304.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000287312.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000287407.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000287541.jpg,washbasin, washbasin
+COCO_train2014_000000287872.jpg,chocolate, chocolate_bn:00018639n
+COCO_train2014_000000287960.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000288317.jpg,trimaran, trimaran_bn:00078294n
+COCO_train2014_000000289192.jpg,street, street_bn:00074595n
+COCO_train2014_000000289204.jpg,recreational, recreational_bn:00109549a, recreational_bn:00027865n, recreational_bn:00096919a
+COCO_train2014_000000289381.jpg,toy, toy_bn:00077799nshop
+COCO_train2014_000000289532.jpg,park, park_bn:00021051n, park_bn:00008203n, park_bn:00091440v, park_bn:00015795n, park_bn:00091439v 
+COCO_train2014_000000290062.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000290246.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000290457.jpg,vase, vase_bn:00079628n, vase_bn:03722510n
+COCO_train2014_000000290489.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000290511.jpg,street, street_bn:00074595n
+COCO_train2014_000000290652.jpg,umbrella, umbrella_bn:00078920n
+COCO_train2014_000000290718.jpg,dock, dock_bn:00027982n, dock_bn:00087132v, dock_bn:00027980n, dock_bn:00027981n, dock_bn:00027984n, dock_bn:00986554n,dock_bn:01126557n ,
+COCO_train2014_000000290767.jpg,plastic, plastic_bn:00062856n, plastic_bn:00102934a, plastic_bn:00103230a, plastic_bn:00108670a 
+COCO_train2014_000000291018.jpg,sleeping, sleeping_bn:00084684v, sleeping_bn:00093860v, sleeping_bn:00072118n, sleeping_bn:00101715a
+COCO_train2014_000000291066.jpg,forklift, forklift_bn:00035905n 
+COCO_train2014_000000291194.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000291349.jpg,quill, quill_bn:00065709n
+COCO_train2014_000000291898.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000292127.jpg,pretzel, pretzel_bn:00064289n 
+COCO_train2014_000000292157.jpg,desk, desk_bn:00026554n
+COCO_train2014_000000292283.jpg,moped, moped_bn:00055841n, moped_bn:00090905v
+COCO_train2014_000000292294.jpg,sandbar, sandbar_bn:00069127n
+COCO_train2014_000000292358.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000292512.jpg,tub, tub_bn:00008992n
+COCO_train2014_000000292727.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000292763.jpg,airliner, airliner_bn:00002299n
+COCO_train2014_000000292805.jpg,sarong, sarong_bn:00069289n
+COCO_train2014_000000292864.jpg,barbershop, barbershop_bn:00008541n, barbershop_bn:00008540n
+COCO_train2014_000000292962.jpg,spider, spider_bn:00073338n
+COCO_train2014_000000292986.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000293030.jpg,waffle, waffle_bn:00080311n
+COCO_train2014_000000293277.jpg,minibus, minibus_bn:00055155n, minibus_bn:02317299n 
+COCO_train2014_000000293493.jpg,tricycle, tricycle_bn:00078268n
+COCO_train2014_000000293514.jpg,bell, bell_bn:00009731n, bell_bn:00009730n
+COCO_train2014_000000293520.jpg,cellular,cellular_bn:00099422a,cellular_bn:00099423a
+COCO_train2014_000000293674.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000293825.jpg,cab,cab_bn:00014407n, cab_bn:00014405n, cab_bn:00377982n, cab_bn:00084351v
+COCO_train2014_000000293906.jpg,rickshaw, rickshaw_bn:00048221n
+COCO_train2014_000000294349.jpg,gas, gas_bn:00037382n, gas_bn:00037385n
+COCO_train2014_000000294635.jpg,paddle, paddle_bn:00011681nwheel
+COCO_train2014_000000294714.jpg,amphibian, amphibian_bn:00003620n, amphibian_bn:00096991a, amphibian_bn:00003619n, amphibian_bn:00003618n
+COCO_train2014_000000294718.jpg,school, school_bn:00079152n
+COCO_train2014_000000295236.jpg,alp, alp_bn:00007246n,alp_bn:00003020n,alp_bn:03229168n
+COCO_train2014_000000295245.jpg,hotdog, hotdog_bn:00028041n
+COCO_train2014_000000295443.jpg,microwave, microwave_bn:00054804n, microwave_bn:00054805n
+COCO_train2014_000000295455.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000295840.jpg,parking, parking_bn:00060699n,parking_bn:00091440v, parking_bn:00060698n
+COCO_train2014_000000295893.jpg,grocery, grocery_bn:00035663n
+COCO_train2014_000000296002.jpg,goblet, goblet_bn:00017545n, goblet_bn:00040874n
+COCO_train2014_000000296108.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000296540.jpg,limousine, limousine_bn:00051265n
+COCO_train2014_000000296573.jpg,saluki, saluki_bn:00037557n
+COCO_train2014_000000296693.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000296978.jpg,go-kart, go-kart_bn:03338933n
+COCO_train2014_000000297359.jpg,jigsaw, jigsaw_bn:01901942n, jigsaw_bn:00048213n
+COCO_train2014_000000297765.jpg,bakery, bakery_bn:00008010n
+COCO_train2014_000000297967.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000298112.jpg,suit, suit_bn:00016403n, suit_bn:00075106n, suit_bn:00075103n, suit_bn:00023328n 
+COCO_train2014_000000298170.jpg,electric, electric_bn:00102083a, electric_bn:00030129n, electric_bn:00030195n, electric_bn:00102085a
+COCO_train2014_000000298182.jpg,bicycle, bicycle_bn:00010248n, bicycle_bn:00083471v
+COCO_train2014_000000298564.jpg,purse, purse_bn:00007925n, purse_bn:00651502n, purse_bn:00064499n, purse_bn:00065325n  
+COCO_train2014_000000298777.jpg,dishwasher, dishwasher_bn:00027579n,dishwasher_bn:00027591n
+COCO_train2014_000000299055.jpg,indian, indian_bn:00104941a, indian_bn:00096965a, indian_bn:00003418n, indian_bn:00003346n
+COCO_train2014_000000299351.jpg,ping-pong, ping-pong_bn:00062496n 
+COCO_train2014_000000299371.jpg,bathtub, bathtub_bn:00008992n
+COCO_train2014_000000299411.jpg,washbasin, washbasin
+COCO_train2014_000000299488.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000299544.jpg,pizza, pizza_bn:00062694n,pizza_bn:03477945n 
+COCO_train2014_000000299676.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000299764.jpg,ballplayer, ballplayer_bn:00008205n
+COCO_train2014_000000299769.jpg,police, police_bn:00022026n, police_bn:00091483v
+COCO_train2014_000000299794.jpg,banana, banana_bn:00008268n 
+COCO_train2014_000000299871.jpg,torch, torch_bn:00077657n, torch_bn:00095033v, torch_bn:00035073n, torch_bn:00000186n
+COCO_train2014_000000299959.jpg,gondola, gondola_bn:00041045n, gondola_bn:00015786n, gondola_bn:00041044n
+COCO_train2014_000000300079.jpg,street, street_bn:00074595n
+COCO_train2014_000000300441.jpg,trolleybus, trolleybus_bn:00077850n
+COCO_train2014_000000300629.jpg,crayfish, crayfish_bn:00023608n
+COCO_train2014_000000300712.jpg,passenger, passenger_bn:00060894n
+COCO_train2014_000000300738.jpg,streetcar, streetcar_bn:00074613n
+COCO_train2014_000000300930.jpg,traffic, traffic_bn:00077888n
+COCO_train2014_000000300990.jpg,racket, racket_bn:03149048n,racket_bn:00036297n,racket_bn:00065848n  
+COCO_train2014_000000301373.jpg,fire, fire_bn:00034625n, fire_bn:00088225v, fire_bn:00082768v 
+COCO_train2014_000000301405.jpg,street, street_bn:00074595n
