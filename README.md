@@ -1,4 +1,4 @@
-#  Semantic Relatedness with Word Embedding (SWE)
+#  Visual Semantic Relatedness with Word Embedding (SWE)
 
 Improved implementation of the paper [Visual Re-ranking with Natural Language
 Understanding for Text Spotting](https://arxiv.org/pdf/1810.12738.pdf). Sabir et al. ACCV 2018.
@@ -6,7 +6,7 @@ Understanding for Text Spotting](https://arxiv.org/pdf/1810.12738.pdf). Sabir et
 ![image](figure.jpg)
 
 ## Introduction 
-Many scene text recognition approaches are based on purely visual information and ignore the semantic relation between scene and text. In this paper, we tackle this problem from natural language processing perspective to fill the gap between language and vision. We propose apost-processing approach to improve scene text recognition accuracy by using occurrence probabilities of words (unigram language model), and the  semantic  correlation  between  scene  and  text.  For  this,  we  initially rely on an off-the-shelf deep neural network, already trained with large amount  of  data,  which  provides  a  series  of  text  hypotheses  per  inputimage. These hypotheses are then re-ranked using word frequencies and semantic  relatedness  with  objects  or  scenes  in  the  image.  As  a  result of this combination, the performance of the original network is boostedwith almost no additional cost. We validate our approach on ICDAR’17dataset
+Many scene text recognition approaches are based on purely visual information and ignore the semantic relation between scene and text. In this paper, we tackle this problem from natural language processing perspective to fill the gap between language and vision. We propose a post-processing approach to improve scene text recognition accuracy by using occurrence probabilities of words (unigram language model), and the  semantic  correlation  between  scene  and  text.  For  this,  we  initially rely on an off-the-shelf deep neural network, already trained with large amount  of  data,  which  provides  a  series  of  text  hypotheses  per  inputimage. These hypotheses are then re-ranked using word frequencies and semantic  relatedness  with  objects  or  scenes  in  the  image.  As  a  result of this combination, the performance of the original network is boosted with almost no additional cost. We validate our approach on ICDAR’17dataset.
 
 
  ## Model 
