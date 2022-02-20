@@ -42,6 +42,12 @@ For w2v install [GoogleNews-vectors-negative300.bin](https://github.com/mmihaltz
 
 For [fastext](https://arxiv.org/pdf/1607.04606.pdf) install [crawl-300d-2M.vec](crawl-300d-2M-subword.zip)
 
+
+
+## Quick Start 
+Familiarize yourself with the model architecture by running the model in Colab! [blog](https://colab.research.google.com/drive/1SXf9W9xK4fB7QMZn3_4qXY6phkdfHt4y?usp=sharin)
+
+
 ## How to run 
 To be able to use w2v/Glove as visual re-ranker, we need the following information 
 
